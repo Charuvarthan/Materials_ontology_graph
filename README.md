@@ -138,4 +138,4 @@ streamlit run robust_hea_app.py
 
 ---
 
-**Built with AI assistance and comprehensive data analysis** 🤖✨
+**Built with AI assistance and comprehensive data analysis** 
