@@ -1,0 +1,2938 @@
+HIGH-ENTROPY ALLOYS FOR HYDROGEN STORAGE - LITERATURE REVIEW
+================================================================================
+Fetched: 2025-08-02 16:24:03
+Total Papers: 290
+
+PAPER 1
+----------------------------------------
+Title: High-entropy alloy nanofiber electrocatalysts for hydrogen production via coupled glycerol electrooxidation
+Authors: Xue Xu, Peng Wang, Yun-Ze Long
+Journal: Electrochimica Acta (2025)
+DOI: 10.1016/j.electacta.2025.147058
+
+================================================================================
+
+PAPER 2
+----------------------------------------
+Title: One-step synthesis of armoured catalyst with ordered carbon layer coated FeCoNiCuZn high-entropy alloy for producing renewable hydrogen from biomass
+Authors: Jian Lin, Xin Lin, Zhifeng Zheng
+Journal: Journal of Analytical and Applied Pyrolysis (2025)
+DOI: 10.1016/j.jaap.2025.107306
+Potential Alloy Compositions: FeCoNiCuZn
+
+================================================================================
+
+PAPER 3
+----------------------------------------
+Title: Theoretical hydrogen storage properties of high entropy alloys: A combined DFT and machine learning approach
+Authors: Thabang R. Somo, Kwena D. Modibane, Daniel M. Teffu
+Journal: Materials Today Communications (2025)
+DOI: 10.1016/j.mtcomm.2025.113366
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 4
+----------------------------------------
+Title: Influence of hydrogen charging on microstructure and mechanical properties in a single FCC Al<ce:inf loc=post>0.35</ce:inf>CoCrFeNi high-entropy alloy
+Authors: Kateryna Kamyshnykova, Tatiana Pelachová, Alena Klimová
+Journal: Journal of Alloys and Compounds (2025)
+DOI: 10.1016/j.jallcom.2025.182366
+Potential Alloy Compositions: CoCrFeNi
+HEA Keywords: fcc
+
+================================================================================
+
+PAPER 5
+----------------------------------------
+Title: Construction of disordered interfaces in high-entropy alloy multilayer films through atomic-scale interactions to enhance hydrogen storage properties
+Authors: Zhiyuan Lu, Zhe Huang, Huai-Jun Lin
+Journal: Journal of Alloys and Compounds (2025)
+DOI: 10.1016/j.jallcom.2025.182243
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 6
+----------------------------------------
+Title: High-entropy FeNiCuMnCr alloy anchored MoS<ce:inf loc=post>2</ce:inf> toward efficient hydrogen evolution in alkaline water and alkaline seawater
+Authors: Bingkun Dai, Yutong Zhu, Jinxue Guo
+Journal: Electrochimica Acta (2025)
+DOI: 10.1016/j.electacta.2025.146861
+Potential Alloy Compositions: FeNiCuMnCr
+
+================================================================================
+
+PAPER 7
+----------------------------------------
+Title: Influence of interphase boundary coherency in high-entropy alloys on their hydrogen storage performance
+Authors: Shivam Dangwal, Kaveh Edalati
+Journal: Journal of Alloys and Compounds (2025)
+DOI: 10.1016/j.jallcom.2025.182070
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 8
+----------------------------------------
+Title: Review of machine learning-assisted multi-property design of high-entropy alloys: phase structure, mechanical, tribological, corrosion, and hydrogen storage properties
+Authors: Yunlong Li, Jialiang Tan, Rui Nie
+Journal: Journal of Materials Research and Technology (2025)
+DOI: 10.1016/j.jmrt.2025.07.005
+HEA Keywords: hydrogen storage, phase structure
+
+================================================================================
+
+PAPER 9
+----------------------------------------
+Title: Hydrogen storage performance of non-equiatomic V<ce:inf loc=post>35</ce:inf>Co<ce:inf loc=post>10</ce:inf>Cr<ce:inf loc=post>20</ce:inf>Fe<ce:inf loc=post>15</ce:inf>Mn<ce:inf loc=post>20</ce:inf> high-entropy alloy synthesized by mechanical alloying
+Authors: Avinash Prabhakar Pariskar, Arivarasu Moganraj
+Journal: International Journal of Hydrogen Energy (2025)
+DOI: 10.1016/j.ijhydene.2025.150055
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 10
+----------------------------------------
+Title: A tool to conjecture hydrogen storage capacity of high entropy alloys
+Authors: K. Surya, S. P. Sibi, Parijat P. Jana
+Journal: International Journal of Hydrogen Energy (2025)
+DOI: 10.1016/j.ijhydene.2025.150069
+HEA Keywords: high entropy alloy, hydrogen storage, storage capacity
+
+================================================================================
+
+PAPER 11
+----------------------------------------
+Title: High-entropy alloys extra-stabilized by carbon dots as highly efficient catalysts for dehydrogenation/hydrogenation reactions
+Authors: Feifei Mei, Jun Yao, Weiping Ding
+Journal: Matter (2025)
+DOI: 10.1016/j.matt.2025.102199
+HEA Keywords: dehydrogenation, hydrogenation
+
+================================================================================
+
+PAPER 12
+----------------------------------------
+Title: Role of compositionally complex and high entropy alloys for hydrogen storage: A bibliometric and mechanistic assessment
+Authors: B. S. Ramatsoma, M. E. Makhatha, M. O. Bodunrin
+Journal: Renewable and Sustainable Energy Reviews (2025)
+DOI: 10.1016/j.rser.2025.115903
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 13
+----------------------------------------
+Title: An acid-etched low-Pt high-entropy alloy with significantly boosted activity for alkaline hydrogen evolution
+Authors: Bin Liu, Shiping Chen, Zhi Ren
+Journal: Next Materials (2025)
+DOI: 10.1016/j.nxmate.2025.100818
+
+================================================================================
+
+PAPER 14
+----------------------------------------
+Title: High entropy alloy supported ruthenium single-atoms for enhanced electrochemical hydrogen evolution reaction
+Authors: Yizhong Zou, Han Zhao, Xiaodong Yan
+Journal: Chemical Engineering Journal (2025)
+DOI: 10.1016/j.cej.2025.164784
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 15
+----------------------------------------
+Title: Thermal stability and hydrogen storage properties of Hf<ce:inf loc=post>0.75</ce:inf>Ti<ce:inf loc=post>0.25</ce:inf>NbVZr and TiNbVZr high entropy alloys
+Authors: M. Moussa, C. Cona, J. -L. Bobet
+Journal: Journal of Alloys and Compounds Communications (2025)
+DOI: 10.1016/j.jacomc.2025.100089
+Potential Alloy Compositions: TiNbVZr, NbVZr
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 16
+----------------------------------------
+Title: Structural reorganization of high-entropy alloy CoNiCuMoZn for enhanced hydrogen evolution performance
+Authors: Huihua Niu, Jiongliang Yuan, Guangzhao Wang
+Journal: Journal of Colloid and Interface Science (2025)
+DOI: 10.1016/j.jcis.2025.138024
+Potential Alloy Compositions: CoNiCuMoZn
+
+================================================================================
+
+PAPER 17
+----------------------------------------
+Title: Microstructural evolution and hydrogen storage performance of TiZrHfVNb<ce:inf loc=post>1-x</ce:inf>Cu<ce:inf loc=post>x</ce:inf> (for X = 0, 0.6, 0.8 and 1) high-entropy alloys
+Authors: Gaspar Andrade, Jacques Huot, Ricardo Floriano
+Journal: Materials Chemistry and Physics (2025)
+DOI: 10.1016/j.matchemphys.2025.131069
+Potential Alloy Compositions: TiZrHfVNb
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 18
+----------------------------------------
+Title: Ruthenium-mediated synthesis of ultrafine FePtCoNiRu high-entropy alloy nanoparticles for enhanced hydrogen evolution catalysis
+Authors: Xuan Jiang, Dong Zhao, Wen-li Pei
+Journal: Journal of Alloys and Compounds (2025)
+DOI: 10.1016/j.jallcom.2025.180933
+Potential Alloy Compositions: FePtCoNiRu
+
+================================================================================
+
+PAPER 19
+----------------------------------------
+Title: Synergistic enhancement of hydrogen storage performance in Mg-based composites with high-entropy alloys
+Authors: Jing Deng, HuiPing Yuan, Lei Hao
+Journal: International Journal of Hydrogen Energy (2025)
+DOI: 10.1016/j.ijhydene.2025.05.089
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 20
+----------------------------------------
+Title: Machine learning-assisted optimization of element ratios in high-entropy alloys for hydrogen evolution reaction
+Authors: Zijun Yang, Qi Yin, Haozhi Wang
+Journal: Progress in Natural Science: Materials International (2025)
+DOI: 10.1016/j.pnsc.2025.05.001
+
+================================================================================
+
+PAPER 21
+----------------------------------------
+Title: Electrospinning synthesis of N-doped graphene encapsulated FeCoNiCrCu high-entropy alloy nanoparticles for efficient nitrobenzene hydrogenation
+Authors: Mengyang Li, Feng Cao, Gaowu Qin
+Journal: Applied Catalysis B: Environment and Energy (2025)
+DOI: 10.1016/j.apcatb.2025.125473
+Potential Alloy Compositions: FeCoNiCrCu
+HEA Keywords: hydrogenation
+
+================================================================================
+
+PAPER 22
+----------------------------------------
+Title: The phase ratio and thermal conductivity of TiVZrNbFe high entropy alloy were optimized by C doping to improve its hydrogen storage performance
+Authors: Sibo Wang, Hongkui Zhang, Guanglong Li
+Journal: Materials Research Bulletin (2025)
+DOI: 10.1016/j.materresbull.2025.113456
+Potential Alloy Compositions: TiVZrNbFe
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 23
+----------------------------------------
+Title: Room temperature hydrogen storage properties of Ti-Zr-Mn-Fe-Co high-entropy alloys designed by semi-empirical descriptors, thermodynamic calculations and machine learning
+Authors: Payam Edalati, Gaspar Andrade, Ricardo Floriano
+Journal: Journal of Alloys and Compounds (2025)
+DOI: 10.1016/j.jallcom.2025.180051
+Potential Alloy Compositions: ofTiZrMnFeCo
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 24
+----------------------------------------
+Title: Hydrogen storage properties of VNbTaTi and VNbTaTiAl high-entropy alloys: A first principles study
+Authors: Qingrui Lin, Yu Yan
+Journal: Vacuum (2025)
+DOI: 10.1016/j.vacuum.2025.114286
+Potential Alloy Compositions: VNbTaTi, VNbTaTiAl
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 25
+----------------------------------------
+Title: Initial hydrogenation in multiphase TiFeCoNiCu high-entropy alloy for hydrogen storage
+Authors: Hansung Lee, Sheetal Kumar Dewangan, Byungmin Ahn
+Journal: Journal of Alloys and Compounds (2025)
+DOI: 10.1016/j.jallcom.2025.179711
+Potential Alloy Compositions: TiFeCoNiCu
+HEA Keywords: hydrogen storage, hydrogenation
+
+================================================================================
+
+PAPER 26
+----------------------------------------
+Title: Semi-coherent nanoprecipitates induced by Nb microalloying enable high-strength and hydrogen-resistant interstitial high-entropy alloy
+Authors: Zhenghong Fu, Pengfei Wu, Yong Zhang
+Journal: Engineering Fracture Mechanics (2025)
+DOI: 10.1016/j.engfracmech.2025.111044
+
+================================================================================
+
+PAPER 27
+----------------------------------------
+Title: Notable catalytic activity of Al–Cu–Fe–Ni–Cr high entropy alloy nanoparticles for hydrogen sorption in MgH<ce:inf loc=post>2</ce:inf>
+Authors: Yogesh Kumar Yadav, Mohammad Abu Shaz, Thakur Prasad Yadav
+Journal: International Journal of Hydrogen Energy (2025)
+DOI: 10.1016/j.ijhydene.2025.02.361
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 28
+----------------------------------------
+Title: An experimental and theoretical investigation of room temperature hydrogen storage in TiVNiNb high-entropy alloy
+Authors: Punit Kumar, Vivek Kumar Singh, Shailesh Kumar Singh
+Journal: Materials Letters (2025)
+DOI: 10.1016/j.matlet.2025.138334
+Potential Alloy Compositions: TiVNiNb
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 29
+----------------------------------------
+Title: Defect-rich FeCoNiMnRu high-entropy alloys with activated interfacial water for boosting alkaline water/seawater hydrogen evolution
+Authors: Guangbo Liu, Chen Song, Luhua Jiang
+Journal: Chemical Engineering Journal (2025)
+DOI: 10.1016/j.cej.2025.161070
+Potential Alloy Compositions: FeCoNiMnRu
+
+================================================================================
+
+PAPER 30
+----------------------------------------
+Title: Efficient dual-phase PtNiCuMnMo high-entropy alloy electrocatalyst for alkaline hydrogen evolution reaction
+Authors: Tao Gu, Fusen Yu, Zhijie Yan
+Journal: Journal of Colloid and Interface Science (2025)
+DOI: 10.1016/j.jcis.2025.02.134
+Potential Alloy Compositions: PtNiCuMnMo
+
+================================================================================
+
+PAPER 31
+----------------------------------------
+Title: Effect of pre-strain on hydrogen embrittlement susceptibility of Fe<ce:inf loc=post>40</ce:inf>Mn<ce:inf loc=post>40</ce:inf>Co<ce:inf loc=post>10</ce:inf>Cr<ce:inf loc=post>10</ce:inf> high-entropy alloy
+Authors: Changwei Wang, Kangning Han, Zhenhuan Li
+Journal: Engineering Failure Analysis (2025)
+DOI: 10.1016/j.engfailanal.2025.109439
+
+================================================================================
+
+PAPER 32
+----------------------------------------
+Title: High electrocatalytic performance of PtFeCoNiIr high-entropy alloys for alkaline hydrogen oxidation reactions
+Authors: Lianming Zhao, Yuchao Zhen, Wei Xing
+Journal: Applied Surface Science (2025)
+DOI: 10.1016/j.apsusc.2025.162706
+Potential Alloy Compositions: PtFeCoNiIr
+
+================================================================================
+
+PAPER 33
+----------------------------------------
+Title: Defects-rich PtRhCoNiMn high-entropy alloyed nanodendrites: A high-performance and sustainable catalyst for hydrogenation reactions
+Authors: Lu Zhang, Zuo-Feng Jiang, Ai-Jun Wang
+Journal: Journal of Colloid and Interface Science (2025)
+DOI: 10.1016/j.jcis.2025.02.163
+Potential Alloy Compositions: PtRhCoNiMn
+HEA Keywords: hydrogenation
+
+================================================================================
+
+PAPER 34
+----------------------------------------
+Title: Liquid-phase microwave synthesis of platinum-based high-entropy alloy catalysts on carbon supports for electrochemical hydrogen adsorption/desorption and oxygen evolution/reduction reactions
+Authors: Pradeep Kumar Panda, Heng-Yu Huang, Wei-Ren Liu
+Journal: International Journal of Hydrogen Energy (2025)
+DOI: 10.1016/j.ijhydene.2025.02.312
+
+================================================================================
+
+PAPER 35
+----------------------------------------
+Title: First-principles study on the hydrogen embrittlement resistance of CoCrFeMnNi high-entropy alloys
+Authors: Mengkai Cui, Timing Zhang, Yuhua Chen
+Journal: International Journal of Hydrogen Energy (2025)
+DOI: 10.1016/j.ijhydene.2025.02.017
+Potential Alloy Compositions: CoCrFeMnNi
+
+================================================================================
+
+PAPER 36
+----------------------------------------
+Title: Reaction kinetics study of hydrogen reduction of high energy milled CoCrFeNi high-entropy alloy (HEA)
+Authors: Gertrude Mugwe Mongella, Taehyeob Im, Caroline Sunyong Lee
+Journal: Journal of Materials Research and Technology (2025)
+DOI: 10.1016/j.jmrt.2025.02.196
+Potential Alloy Compositions: CoCrFeNi
+HEA Keywords: hea, kinetics
+
+================================================================================
+
+PAPER 37
+----------------------------------------
+Title: Impact of annealing and hydrogenation on the superconducting transition temperature of (TiNbMoTaW)N<ce:inf loc=post>x</ce:inf> high entropy alloy nitride films
+Authors: Gabriel Pristáš, Georg C. Gruber, Karol Flachbart
+Journal: Solid State Sciences (2025)
+DOI: 10.1016/j.solidstatesciences.2025.107851
+Potential Alloy Compositions: TiNbMoTaW
+HEA Keywords: high entropy alloy, hydrogenation
+
+================================================================================
+
+PAPER 38
+----------------------------------------
+Title: Effect of microstructure on hydrogen absorption in WMoTaNbV high-entropy alloy
+Authors: Anna Liski, Marianna Kemell, Kenichiro Mizohata
+Journal: Nuclear Materials and Energy (2025)
+DOI: 10.1016/j.nme.2025.101870
+Potential Alloy Compositions: WMoTaNbV
+
+================================================================================
+
+PAPER 39
+----------------------------------------
+Title: Hydrogen-resistant materials: A review exploring shape memory alloys, medium and high entropy alloys to project the potentials of a high entropy shape memory alloy
+Authors: Azubuike Amadi, Mysara Mohyaldinn, Adil Benaarbia
+Journal: Journal of Alloys and Compounds Communications (2025)
+DOI: 10.1016/j.jacomc.2025.100054
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 40
+----------------------------------------
+Title: A high-entropy alloy for superior resistance to biogenic sulfuric acid corrosion and hydrogen embrittlement
+Authors: Hong Luo, Zhimin Pan, Dierk Raabe
+Journal: Matter (2025)
+DOI: 10.1016/j.matt.2024.101944
+
+================================================================================
+
+PAPER 41
+----------------------------------------
+Title: Hydrogen embrittlement and corrosion resistance of NiCoCr-based equimolar face-centered cubic medium-/high-entropy alloys
+Authors: Zihui Guo, Ming Liu, Yu Yan
+Journal: Corrosion Science (2025)
+DOI: 10.1016/j.corsci.2025.112700
+Potential Alloy Compositions: NiCoCr
+
+================================================================================
+
+PAPER 42
+----------------------------------------
+Title: <ce:bold>High-entropy alloys as advanced electrocatalysts for biomass conversion and sustainable hydrogen</ce:bold> p<ce:bold>roduction</ce:bold>
+Authors: Masimukku Srinivaas, Yen-Yi Lee, Guo-Ping Chang-Chien
+Journal: International Journal of Hydrogen Energy (2025)
+DOI: 10.1016/j.ijhydene.2024.12.430
+
+================================================================================
+
+PAPER 43
+----------------------------------------
+Title: The role of ambient and cryogenic pre-strain on hydrogen embrittlement of a FeNiCoCr high-entropy alloy: A comparative study
+Authors: Zihui Guo, Shenggang Li, Yu Yan
+Journal: Corrosion Science (2025)
+DOI: 10.1016/j.corsci.2024.112661
+Potential Alloy Compositions: FeNiCoCr
+
+================================================================================
+
+PAPER 44
+----------------------------------------
+Title: High-entropy alloy nanocrystals boosting photocatalytic hydrogen evolution coupled with selective oxidation of cinnamyl alcohol
+Authors: Xianglin Xiang, Bei Cheng, Guijie Liang
+Journal: Chinese Journal of Catalysis (2025)
+DOI: 10.1016/S1872-2067(24)60167-1
+
+================================================================================
+
+PAPER 45
+----------------------------------------
+Title: Solid-state hydrogen storage properties of Al–Cu–Fe–Ni–Ti high entropy alloy
+Authors: Yogesh Kumar Yadav, Mohammad Abu Shaz, Thakur Prasad Yadav
+Journal: International Journal of Hydrogen Energy (2025)
+DOI: 10.1016/j.ijhydene.2024.12.254
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 46
+----------------------------------------
+Title: A selective laser melted AlCoCrFeNi<ce:inf loc=post>2.1</ce:inf> eutectic high-entropy alloy with improved synergy of strength and hydrogen embrittlement resistance
+Authors: Zhenghong Fu, Xi Li, Lei Liao
+Journal: Optics & Laser Technology (2025)
+DOI: 10.1016/j.optlastec.2024.112364
+Potential Alloy Compositions: AlCoCrFeNi
+
+================================================================================
+
+PAPER 47
+----------------------------------------
+Title: Enhancing hydrogen storage kinetics and capacity via particle size modulation in TiZrCrFeMnNi high-entropy alloy
+Authors: Hyojeong Ha, So Jin Jung, Hyoung Seop Kim
+Journal: International Journal of Hydrogen Energy (2025)
+DOI: 10.1016/j.ijhydene.2024.12.185
+Potential Alloy Compositions: TiZrCrFeMnNi
+HEA Keywords: hydrogen storage, kinetics
+
+================================================================================
+
+PAPER 48
+----------------------------------------
+Title: Binding energy crossover mechanism enables low-temperature hydrogen storage performance of dual-phase TiZrCrMnNi(VFe) high-entropy alloy
+Authors: Jiaxin Wang, Panpan Zhou, Xuezhang Xiao
+Journal: Chemical Engineering Journal (2024)
+DOI: 10.1016/j.cej.2024.157871
+Potential Alloy Compositions: TiZrCrMnNi
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 49
+----------------------------------------
+Title: Hydrogen storage in TiVCr(Fe,Co)(Zr,Ta) multi-phase high-entropy alloys
+Authors: Farzaneh Zareipour, Hamed Shahmir, Marcello Baricco
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2024.11.109
+Potential Alloy Compositions: TiVCr
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 50
+----------------------------------------
+Title: Nanoscale Raspberry-like Ni–Fe–Co–Mn–V high-entropy alloy electrocatalysts: A pathway to ultrlow overpotential hydrogen evolution
+Authors: ZhaoJun Liu, Hongxiao Ma, Xin Liu
+Journal: Materials Today Chemistry (2024)
+DOI: 10.1016/j.mtchem.2024.102404
+
+================================================================================
+
+PAPER 51
+----------------------------------------
+Title: Mitigating hydrogen embrittlement in high-entropy alloys for next-generation hydrogen storage systems
+Authors: V. Balaji, P. Jeyapandiarajan, M. Anthony Xavior
+Journal: Journal of Materials Research and Technology (2024)
+DOI: 10.1016/j.jmrt.2024.11.139
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 52
+----------------------------------------
+Title: Hydrogen-induced crack behavior of a precipitation-strengthened Ni<ce:inf loc=post>50</ce:inf>Cr<ce:inf loc=post>20</ce:inf>Co<ce:inf loc=post>15</ce:inf>Al<ce:inf loc=post>10</ce:inf>V<ce:inf loc=post>5</ce:inf> high entropy alloy
+Authors: Qiancheng Zhao, Hong Luo, R. K. Islamgaliev
+Journal: Corrosion Science (2024)
+DOI: 10.1016/j.corsci.2024.112562
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 53
+----------------------------------------
+Title: The role of hydrogen in the synthesis of High-entropy alloys and their hydrides
+Authors: Garnik Muradyan, Seda Dolukhanyan, Armen Hovhannisyan
+Journal: Journal of Alloys and Compounds (2025)
+DOI: 10.1016/j.jallcom.2024.177327
+HEA Keywords: hydride
+
+================================================================================
+
+PAPER 54
+----------------------------------------
+Title: Enhancement of hydrogen embrittlement resistance in CoCrFeNi high-entropy alloy through the addition of MoB elements
+Authors: Xinfeng Li, Yan Cui, Jin Zhang
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2024.10.092
+Potential Alloy Compositions: CoCrFeNi
+
+================================================================================
+
+PAPER 55
+----------------------------------------
+Title: Ti/Cr regulated and strategic Ce doped V-Ti-Cr-Mn-Fe high-entropy alloys with extraordinary reversible hydrogen storage properties at ambient temperature
+Authors: Xinjia Zhang, Zhao Zhang, Tong Liu
+Journal: Chemical Engineering Journal (2024)
+DOI: 10.1016/j.cej.2024.156643
+Potential Alloy Compositions: VTiCrMnFe
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 56
+----------------------------------------
+Title: Ordering-facilitated lower hydrogen embrittlement sensitivity in a prototype high-entropy alloy
+Authors: Pengfei Wu, Wei Zhang, Kefu Gan
+Journal: Materials Characterization (2024)
+DOI: 10.1016/j.matchar.2024.114473
+
+================================================================================
+
+PAPER 57
+----------------------------------------
+Title: High-entropy alloy-enhanced ZnCdS nanostructure photocatalysts for hydrogen production
+Authors: Jing Wang, Xingyu Niu, Yuping Wu
+Journal: Applied Catalysis B: Environment and Energy (2025)
+DOI: 10.1016/j.apcatb.2024.124763
+
+================================================================================
+
+PAPER 58
+----------------------------------------
+Title: Enhanced CO<ce:inf loc=post>2</ce:inf> hydrogenation performance of CoCrNiFeMn high entropy alloys
+Authors: Chunjing Su, Lizhuo Wang, Jun Huang
+Journal: Materials Today Sustainability (2024)
+DOI: 10.1016/j.mtsust.2024.101006
+Potential Alloy Compositions: CoCrNiFeMn
+HEA Keywords: high entropy alloy, hydrogenation
+
+================================================================================
+
+PAPER 59
+----------------------------------------
+Title: Prediction of the optimal hydrogen storage in high entropy alloys
+Authors: Songqin Xia, Wenping Yang, Yong Zhang
+Journal: Materials Chemistry and Physics (2024)
+DOI: 10.1016/j.matchemphys.2024.130010
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 60
+----------------------------------------
+Title: Structure analysis (XRD and Neutrons) and hydrogen storage properties of Hf<ce:inf loc=post>1-<ce:italic>x</ce:italic></ce:inf>Ti<ce:inf loc=post><ce:italic>x</ce:italic></ce:inf>NbVZr BCC high entropy alloys
+Authors: Maria Moussa, Lambert van Eijck, Jean Louis Bobet
+Journal: Journal of Alloys and Compounds (2025)
+DOI: 10.1016/j.jallcom.2024.177103
+Potential Alloy Compositions: NbVZr
+HEA Keywords: high entropy alloy, hydrogen storage, bcc
+
+================================================================================
+
+PAPER 61
+----------------------------------------
+Title: Effects of hydrogen on the fretting wear behavior of laser cladded FeCoCrNiMo<ce:inf loc=post>0.2</ce:inf> high entropy alloy coating
+Authors: Junjun Jin, Zhiyi Zhang, Guoqing Gou
+Journal: Wear (2025)
+DOI: 10.1016/j.wear.2024.205587
+Potential Alloy Compositions: FeCoCrNiMo
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 62
+----------------------------------------
+Title: Studies on hydrogen storage properties of TiVFeNi, (TiVFeNi)<ce:inf loc=post>95</ce:inf>Zr<ce:inf loc=post>5</ce:inf> and (TiVFeNi)<ce:inf loc=post>90</ce:inf>Zr<ce:inf loc=post>10</ce:inf> high entropy alloys
+Authors: Aryan Singh, Priyanka Kumari, Rohit R. Shahi
+Journal: International Journal of Hydrogen Energy (2025)
+DOI: 10.1016/j.ijhydene.2024.09.064
+Potential Alloy Compositions: TiVFeNi
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 63
+----------------------------------------
+Title: The design of Mg–Ti–V–Nb–Cr lightweight high entropy alloys for hydrogen storage
+Authors: Yuhui Deng, Xin Chen, Haiyan Xiao
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2024.09.115
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 64
+----------------------------------------
+Title: High entropy alloys for hydrogen storage applications: A machine learning-based approach
+Authors: N. Radhika, Madabhushi Siri Niketh, Tien-Chien Jen
+Journal: Results in Engineering (2024)
+DOI: 10.1016/j.rineng.2024.102780
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 65
+----------------------------------------
+Title: HoDyGdCoAl high-entropy amorphous alloys working at full temperature range for hydrogen liquefaction with large magnetocaloric effects
+Authors: Chen Yang, Cong Liu, Guodong Liu
+Journal: Journal of Alloys and Compounds (2024)
+DOI: 10.1016/j.jallcom.2024.176068
+Potential Alloy Compositions: HoDyGdCoAl
+
+================================================================================
+
+PAPER 66
+----------------------------------------
+Title: Cerium-optimized platinum-free high-entropy alloy nanoclusters for enhanced ampere-level sustainable hydrogen generation
+Authors: Yujia Zhang, Kunkun Nie, Wei Huang
+Journal: Applied Catalysis B: Environment and Energy (2025)
+DOI: 10.1016/j.apcatb.2024.124529
+
+================================================================================
+
+PAPER 67
+----------------------------------------
+Title: Evaluation of hydrogen storage performance of Ti<ce:inf loc=post>0.25</ce:inf>Zr<ce:inf loc=post>0.25</ce:inf>V<ce:inf loc=post>0.15</ce:inf>Nb<ce:inf loc=post>0.15</ce:inf>Ta<ce:inf loc=post>0.2</ce:inf> high-entropy alloy using calorimetric technique
+Authors: I. Savvotin, E. Berdonosova, S. Klyamkin
+Journal: Journal of Alloys and Compounds (2024)
+DOI: 10.1016/j.jallcom.2024.176022
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 68
+----------------------------------------
+Title: Electrodeposition of FeNiCoCrMn high-entropy alloys on copper foam for enhanced hydrogen evolution reaction——influence of additives and deposition potential
+Authors: Liu Ju, Wangping Wu, Qinqin Wang
+Journal: Materials Letters (2024)
+DOI: 10.1016/j.matlet.2024.137195
+Potential Alloy Compositions: FeNiCoCrMn
+
+================================================================================
+
+PAPER 69
+----------------------------------------
+Title: Al–Cu–Fe–Ni–Ti high entropy alloy nanoparticles as new catalyst for hydrogen sorption in MgH<ce:inf loc=post>2</ce:inf>
+Authors: Yogesh Kumar Yadav, Mohammad Abu Shaz, Thakur Prasad Yadav
+Journal: International Journal of Hydrogen Energy (2025)
+DOI: 10.1016/j.ijhydene.2024.08.095
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 70
+----------------------------------------
+Title: Highly reversible Mg-containing multicomponent high-entropy alloys for electrochemical hydrogen storage applications
+Authors: Srilakshmi Jeyaraman, Thirugnasambandam G Manivasagam
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2024.07.328
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 71
+----------------------------------------
+Title: Unique multi-mode nanoporous CoCrFeNiAl high entropy alloy for hydrogen peroxide sensor
+Authors: Xuanxuan Feng, Mengxue Li, Fengxiang Qin
+Journal: Electrochimica Acta (2024)
+DOI: 10.1016/j.electacta.2024.144855
+Potential Alloy Compositions: CoCrFeNiAl
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 72
+----------------------------------------
+Title: Exploring the inhibitory effect of WTaVCr high-entropy alloys on hydrogen retention: From dissolution, diffusion to desorption
+Authors: Tian-Ren Yang, Yi-Xuan Wang, Guang-Hong Lu
+Journal: Journal of Nuclear Materials (2024)
+DOI: 10.1016/j.jnucmat.2024.155346
+Potential Alloy Compositions: WTaVCr
+
+================================================================================
+
+PAPER 73
+----------------------------------------
+Title: Preparation of TiZrHfNbMo refractory high entropy alloy powder via hydrogen plasma-arc melting
+Authors: Xiangyang Shen, Guishen Zhou, Peter K. Liaw
+Journal: Intermetallics (2024)
+DOI: 10.1016/j.intermet.2024.108435
+Potential Alloy Compositions: TiZrHfNbMo
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 74
+----------------------------------------
+Title: Effect of heat treatment on microstructural evolution and hydrogen storage performance of as-milled Ti<ce:inf loc=post>5+x</ce:inf>V<ce:inf loc=post>35</ce:inf>(CrMnFe)<ce:inf loc=post>60-x</ce:inf> (x=0, 10, 20, 30) high-entropy alloys
+Authors: Y. T. Zhai, Y. M. Li, F. Yang
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2024.07.298
+Potential Alloy Compositions: CrMnFe
+HEA Keywords: hea, hydrogen storage
+
+================================================================================
+
+PAPER 75
+----------------------------------------
+Title: The future of hydrogen economy: Role of high entropy alloys in hydrogen storage
+Authors: Tabrez Qureshi, Mohammad Mohsin Khan, Harveer Singh Pali
+Journal: Journal of Alloys and Compounds (2024)
+DOI: 10.1016/j.jallcom.2024.175668
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 76
+----------------------------------------
+Title: An efficient and stable high-entropy alloy electrocatalyst for hydrogen evolution reaction
+Authors: Gui Zhao, Kuan Lu, Liwei Chen
+Journal: Chinese Journal of Catalysis (2024)
+DOI: 10.1016/S1872-2067(24)60067-7
+
+================================================================================
+
+PAPER 77
+----------------------------------------
+Title: Multi-site synergistic hydrogen evolution reactions on porous homogeneous FeCoNiCu high-entropy alloys fabricated by solution combustion synthesis and hydrogen reduction
+Authors: Fei Guo, Yilin Zhang, Huibin Zhang
+Journal: Journal of Alloys and Compounds (2024)
+DOI: 10.1016/j.jallcom.2024.175356
+Potential Alloy Compositions: FeCoNiCu
+
+================================================================================
+
+PAPER 78
+----------------------------------------
+Title: Effect of Co content on electrochemical hydrogen kinetics properties of single-phase BCC-type MgAlTiCo<ce:italic><ce:inf loc=post>x</ce:inf></ce:italic>Ni high entropy alloys used as a negative electrode in basic and acidic electrolyte
+Authors: A. Martinez-Garcia, Víctor M. Orozco-Carmona, R. Martínez Sánchez
+Journal: Electrochimica Acta (2024)
+DOI: 10.1016/j.electacta.2024.144601
+Potential Alloy Compositions: MgAlTiCo
+HEA Keywords: high entropy alloy, kinetics, bcc
+
+================================================================================
+
+PAPER 79
+----------------------------------------
+Title: Additively manufactured high-entropy alloys for hydrogen storage: Predictions
+Authors: Morena S. Xaba
+Journal: Heliyon (2024)
+DOI: 10.1016/j.heliyon.2024.e32715
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 80
+----------------------------------------
+Title: Near-surface self-resistance hydrogen effect of eutectic high-entropy alloy AlCoCrFeNi<ce:inf loc=post>2.1</ce:inf>
+Authors: Daochen Feng, Minghui Hu, Jianguo Yang
+Journal: Journal of Materials Research and Technology (2024)
+DOI: 10.1016/j.jmrt.2024.06.092
+Potential Alloy Compositions: AlCoCrFeNi
+
+================================================================================
+
+PAPER 81
+----------------------------------------
+Title: Hydrogenation features of TiZrHfNbTa high-entropy alloy produced by calcium-hydride synthesis
+Authors: Sergey Yudin, Sergey Volodko, Vladislav Zadorozhnyy
+Journal: Journal of Alloys and Compounds (2024)
+DOI: 10.1016/j.jallcom.2024.175038
+Potential Alloy Compositions: TiZrHfNbTa
+HEA Keywords: hydride, hydrogenation
+
+================================================================================
+
+PAPER 82
+----------------------------------------
+Title: Catalytic effect of carbon-supported NiCoFeCuMg high-entropy alloy nanocatalysts on hydrogen storage properties of MgH<ce:inf loc=post>2</ce:inf>
+Authors: Yafei Liu, Mengyuan Yue, Yijing Wang
+Journal: Journal of Magnesium and Alloys (2025)
+DOI: 10.1016/j.jma.2024.04.031
+Potential Alloy Compositions: NiCoFeCuMg
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 83
+----------------------------------------
+Title: Machine learning to explore high-entropy alloys with desired enthalpy for room-temperature hydrogen storage: Prediction of density functional theory and experimental data
+Authors: Shivam Dangwal, Yuji Ikeda, Kaveh Edalati
+Journal: Chemical Engineering Journal (2024)
+DOI: 10.1016/j.cej.2024.152606
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 84
+----------------------------------------
+Title: Coverage, repulsion, and reactivity of hydrogen on High-Entropy alloys
+Authors: Frederik C. Østergaard, Frank Abild-Pedersen, Jan Rossmeisl
+Journal: Journal of Catalysis (2024)
+DOI: 10.1016/j.jcat.2024.115570
+
+================================================================================
+
+PAPER 85
+----------------------------------------
+Title: Laser-thermal reduction synthesis of high-entropy alloys towards high-performance pH universal hydrogen evolution reaction
+Authors: Yingjie Yu, Qi Wang, Wen Lei
+Journal: Nano Materials Science (2025)
+DOI: 10.1016/j.nanoms.2024.05.012
+
+================================================================================
+
+PAPER 86
+----------------------------------------
+Title: CNTs-supported noble metal-free high-entropy alloys heterostructure NiMoCoMnLa/CNTs@Ni for electrochemical hydrogen evolution reaction
+Authors: Sixuan Zhang, Jinzhao Huang, Xiaolong Deng
+Journal: Applied Surface Science (2024)
+DOI: 10.1016/j.apsusc.2024.160417
+Potential Alloy Compositions: NiMoCoMnLa
+
+================================================================================
+
+PAPER 87
+----------------------------------------
+Title: Effect of heat treatment on hydrogen embrittlement susceptibility of Al<ce:inf loc=post>0.25</ce:inf>CoCrFeNi high entropy alloy
+Authors: Min Liu, Wenjing Lu, Zhanyong Wang
+Journal: Engineering Failure Analysis (2024)
+DOI: 10.1016/j.engfailanal.2024.108432
+Potential Alloy Compositions: CoCrFeNi
+HEA Keywords: high entropy alloy, hea
+
+================================================================================
+
+PAPER 88
+----------------------------------------
+Title: Exploring microstructure variations and hydrogen storage characteristics in TiVNbCrNi high-entropy alloys with different Ni incorporation
+Authors: Bo Cheng, Lingjie Kong, Yunfei Xue
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2024.05.317
+Potential Alloy Compositions: TiVNbCrNi
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 89
+----------------------------------------
+Title: Structural-regulation of Laves phase high-entropy alloys to catalytically enhance hydrogen desorption from MgH<ce:inf loc=post>2</ce:inf>
+Authors: Fuhu Yin, Zhizhong Chen, Qingan Zhang
+Journal: Journal of Alloys and Compounds (2024)
+DOI: 10.1016/j.jallcom.2024.174822
+
+================================================================================
+
+PAPER 90
+----------------------------------------
+Title: NiFeCo-based high entropy alloys nanoparticles coated with N-doped graphene layers as hydrogen evolution catalyst in alkaline solution
+Authors: Qiansu Gao, Zishang Wang, Hong Yin
+Journal: Chemical Engineering Journal (2024)
+DOI: 10.1016/j.cej.2024.151370
+Potential Alloy Compositions: NiFeCo
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 91
+----------------------------------------
+Title: PtPdCoNiCu/TiO<ce:inf loc=post>2</ce:inf> High-Entropy alloy catalyst for synthesis of γ-Butyrolactone by selective hydrogenation of maleic anhydride
+Authors: Xiao Chen, Nannan Zhang, Changhai Liang
+Journal: Chemical Engineering Journal (2024)
+DOI: 10.1016/j.cej.2024.151672
+Potential Alloy Compositions: PtPdCoNiCu
+HEA Keywords: hydride, hydrogenation
+
+================================================================================
+
+PAPER 92
+----------------------------------------
+Title: Hydrogen trapping and micromechanical behavior in additively manufactured CoCrFeNi high-entropy alloy in as-built and pre-strained conditions
+Authors: Zhe Gao, Dong-Hyun Lee, Jae-il Jang
+Journal: Acta Materialia (2024)
+DOI: 10.1016/j.actamat.2024.119886
+Potential Alloy Compositions: CoCrFeNi
+
+================================================================================
+
+PAPER 93
+----------------------------------------
+Title: Dendritic boron and nitrogen doped high-entropy alloy porous carbon fibers for high-efficiency hydrogen evolution reaction
+Authors: Jin-Hua Liu, Jie Zheng, Yun-Ze Long
+Journal: iScience (2024)
+DOI: 10.1016/j.isci.2024.109616
+
+================================================================================
+
+PAPER 94
+----------------------------------------
+Title: Machine learning assisted design of BCC high entropy alloys for room temperature hydrogen storage
+Authors: Ethan Halpren, Xue Yao, Chandra Veer Singh
+Journal: Acta Materialia (2024)
+DOI: 10.1016/j.actamat.2024.119841
+HEA Keywords: high entropy alloy, hydrogen storage, bcc
+
+================================================================================
+
+PAPER 95
+----------------------------------------
+Title: Influence of C14 Laves phase and Zr-rich phase interactions on the hydrogen storage properties of Ti<ce:inf loc=post>32.5</ce:inf>V<ce:inf loc=post>27.5</ce:inf>Zr<ce:inf loc=post>7.5</ce:inf>Nb<ce:inf loc=post>32.5</ce:inf> high entropy hydrogen storage alloy
+Authors: Guanglong Li, Yue Li, Yingdong Qu
+Journal: Intermetallics (2024)
+DOI: 10.1016/j.intermet.2024.108239
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 96
+----------------------------------------
+Title: Effects of molybdenum content and heat treatment on hydrogen evolution reaction properties and microstructure of FeCoCrNiMo<ce:inf loc=post>x</ce:inf> high entropy alloys
+Authors: Qiankun Zhang, Mengmeng Du, Yuehui He
+Journal: Intermetallics (2024)
+DOI: 10.1016/j.intermet.2024.108230
+Potential Alloy Compositions: FeCoCrNiMo
+HEA Keywords: high entropy alloy, hea
+
+================================================================================
+
+PAPER 97
+----------------------------------------
+Title: Pushing the Boundaries of solid-state hydrogen storage: A Refined study on TiVNbCrMo high-entropy alloys
+Authors: Bo Cheng, Lingjie Kong, Yunfei Xue
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2024.02.192
+Potential Alloy Compositions: TiVNbCrMo
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 98
+----------------------------------------
+Title: Effect of ultrasonic treatment on comprehensive properties of (Ti<ce:inf loc=post>32.5</ce:inf>V<ce:inf loc=post>27.5</ce:inf>Zr<ce:inf loc=post>7.5</ce:inf>Nb<ce:inf loc=post>32.5</ce:inf>)<ce:inf loc=post>0.91</ce:inf>Ni<ce:inf loc=post>0.09</ce:inf> high entropy hydrogen storage alloy
+Authors: Jian Liang, Guanglong Li, Yingdong Qu
+Journal: Materials Letters (2024)
+DOI: 10.1016/j.matlet.2024.136086
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 99
+----------------------------------------
+Title: Effect of hydrogen on thermal deformation behavior and microstructure evolution of MoNbHfZrTi refractory high-entropy alloy
+Authors: Xiangyang Shen, Feng Liu, Peter K. Liaw
+Journal: Intermetallics (2024)
+DOI: 10.1016/j.intermet.2024.108193
+Potential Alloy Compositions: MoNbHfZrTi
+
+================================================================================
+
+PAPER 100
+----------------------------------------
+Title: Hydrogen interaction with FCC CoCrFeMnNi high entropy alloy
+Authors: Lisa Claeys, Mohammadhossein Barati Rizi, Tom Depover
+Journal: Procedia Structural Integrity (2024)
+DOI: 10.1016/j.prostr.2024.01.080
+Potential Alloy Compositions: CoCrFeMnNi
+HEA Keywords: high entropy alloy, fcc
+
+================================================================================
+
+PAPER 101
+----------------------------------------
+Title: Hydrogen embrittlement of a precipitation-strengthened high-entropy alloy
+Authors: Hongxu Cheng, Hong Luo, Xiaogang Li
+Journal: Corrosion Science (2024)
+DOI: 10.1016/j.corsci.2023.111708
+
+================================================================================
+
+PAPER 102
+----------------------------------------
+Title: Hydrogen-assisted fatigue crack propagation behavior of a C–N co-doped interstitial high-entropy alloy
+Authors: Zhenghong Fu, Pengfei Wu
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2023.11.135
+
+================================================================================
+
+PAPER 103
+----------------------------------------
+Title: The synergistic effect of Ni and C14 Laves phase on the hydrogen storage properties of TiVZrNbNi high entropy hydrogen storage alloy
+Authors: Jian Liang, Guanglong Li, Yingdong Qu
+Journal: Intermetallics (2024)
+DOI: 10.1016/j.intermet.2023.108102
+Potential Alloy Compositions: TiVZrNbNi
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 104
+----------------------------------------
+Title: Development of AB<ce:inf loc=post>2</ce:inf>-type TiZrCrMnFeCoV intermetallic high-entropy alloy for reversible room-temperature hydrogen storage
+Authors: Yongyang Zhu, Xu-Sheng Yang, Kangcheung Chan
+Journal: Journal of Energy Storage (2024)
+DOI: 10.1016/j.est.2023.109553
+Potential Alloy Compositions: TiZrCrMnFeCoV
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 105
+----------------------------------------
+Title: Hydrogen storage of high entropy alloy NbTiVZr and its effect on mechanical properties: A first-principles study
+Authors: Junjie Gong, Yan Li, Zheng Chen
+Journal: Vacuum (2024)
+DOI: 10.1016/j.vacuum.2023.112754
+Potential Alloy Compositions: NbTiVZr
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 106
+----------------------------------------
+Title: (TiVZrNb)<ce:inf loc=post>83</ce:inf>Cr<ce:inf loc=post>17</ce:inf> high-entropy alloy as catalyst for hydrogen storage in MgH<ce:inf loc=post>2</ce:inf>
+Authors: Mingxing Wei, Yijin Liu, Tong Liu
+Journal: Chemical Engineering Journal (2023)
+DOI: 10.1016/j.cej.2023.146639
+Potential Alloy Compositions: TiVZrNb
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 107
+----------------------------------------
+Title: Catalytic transfer hydrogenation of furfural via metal-organic framework-derived high entropy alloy catalysts at room pressure
+Authors: Shuhong Liu, Ren Tu, Xiwei Xu
+Journal: Fuel Processing Technology (2023)
+DOI: 10.1016/j.fuproc.2023.107976
+HEA Keywords: high entropy alloy, hydrogenation
+
+================================================================================
+
+PAPER 108
+----------------------------------------
+Title: High entropy alloys containing immiscible Mg and refractory elements: Synthesis, structure, and hydrogen storage properties
+Authors: Renato Belli Strozi, Kouji Sakaki, Claudia Zlotea
+Journal: Journal of Alloys and Compounds (2023)
+DOI: 10.1016/j.jallcom.2023.172415
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 109
+----------------------------------------
+Title: Effect of high-pressure torsion on first hydrogenation of Laves phase Ti<ce:inf loc=post>0.5</ce:inf>Zr<ce:inf loc=post>0.5</ce:inf>(Mn<ce:inf loc=post>1-<ce:italic>x</ce:italic></ce:inf>Fe<ce:inf loc=post><ce:italic>x</ce:italic></ce:inf>)Cr<ce:inf loc=post>1</ce:inf> (<ce:italic>x</ce:italic> = 0, 0.2 and 0.4) high entropy alloys
+Authors: Jacqueline Hidalgo-Jimenez, Jorge M. Cubero-Sesin, Jacques Huot
+Journal: Journal of Alloys and Compounds (2023)
+DOI: 10.1016/j.jallcom.2023.172243
+HEA Keywords: high entropy alloy, hydrogenation
+
+================================================================================
+
+PAPER 110
+----------------------------------------
+Title: High-entropy alloy TiV<ce:inf loc=post>2</ce:inf>ZrCrMnFeNi for hydrogen storage at room temperature with full reversibility and good activation
+Authors: Shivam Dangwal, Kaveh Edalati
+Journal: Scripta Materialia (2024)
+DOI: 10.1016/j.scriptamat.2023.115774
+Potential Alloy Compositions: ZrCrMnFeNi
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 111
+----------------------------------------
+Title: Enhancement of vanadium addition on hydrogen storage properties of high entropy alloys TiZrFeMnCrV<ce:italic>x</ce:italic>
+Authors: Jinting Chen, Haixiang Huang, Ying Wu
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2023.09.121
+Potential Alloy Compositions: TiZrFeMnCrV
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 112
+----------------------------------------
+Title: Hydrogen storage behaviours of high entropy alloys: A Review
+Authors: Thabang R. Somo, Mykhaylo V. Lototskyy, Serge Nyallang Nyamsi
+Journal: Journal of Energy Storage (2023)
+DOI: 10.1016/j.est.2023.108969
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 113
+----------------------------------------
+Title: Hydrogen induced cracking behavior of the dual-phase Co<ce:inf loc=post>30</ce:inf>Cr<ce:inf loc=post>10</ce:inf>Fe<ce:inf loc=post>10</ce:inf>Al<ce:inf loc=post>18</ce:inf>Ni<ce:inf loc=post>30</ce:inf>Mo<ce:inf loc=post>2</ce:inf> eutectic high entropy alloy
+Authors: Qiancheng Zhao, Hong Luo, Xiaogang Li
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2023.09.053
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 114
+----------------------------------------
+Title: Effect of C14 Laves/BCC on microstructure and hydrogen storage properties of (Ti<ce:inf loc=post>32.5</ce:inf>V<ce:inf loc=post>27.5</ce:inf>Zr<ce:inf loc=post>7.5</ce:inf>Nb<ce:inf loc=post>32.5</ce:inf>) <ce:inf loc=post>1-x</ce:inf>Fe<ce:inf loc=post>x</ce:inf> (x = 0.03, 0.06, 0.09) high entropy hydrogen storage alloys
+Authors: Jian Liang, Guanglong Li, Yingdong Qu
+Journal: Journal of Energy Storage (2023)
+DOI: 10.1016/j.est.2023.108852
+HEA Keywords: hydrogen storage, bcc
+
+================================================================================
+
+PAPER 115
+----------------------------------------
+Title: Hydrogen storage properties of MgTiVZrNb high-entropy alloy and its catalytic effect upon hydrogen storage in Mg
+Authors: Shaopeng Wu, Yuping Chen, Lei Zhou
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2023.09.022
+Potential Alloy Compositions: MgTiVZrNb
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 116
+----------------------------------------
+Title: Superior catalytic action of high-entropy alloy on hydrogen sorption properties of MgH<ce:inf loc=post>2</ce:inf>
+Authors: Satish Kumar Verma, Shashank Shekhar Mishra, Thakur Prasad Yadav
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2023.08.127
+
+================================================================================
+
+PAPER 117
+----------------------------------------
+Title: Significance of interphase boundaries on activation of high-entropy alloys for room-temperature hydrogen storage
+Authors: Shivam Dangwal, Kaveh Edalati
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2023.07.327
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 118
+----------------------------------------
+Title: High-entropy alloys for solid hydrogen storage: a review
+Authors: Long Luo, Liangpan Chen, Yongzhi Li
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2023.07.146
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 119
+----------------------------------------
+Title: Structural investigation and hydrogenation properties of TiZrXMnFeNi (X = Cr, Mo, and W) high entropy alloys
+Authors: Mojtaba Komeili, Hadi Arabi, Faiz Pourarian
+Journal: Journal of Alloys and Compounds (2023)
+DOI: 10.1016/j.jallcom.2023.171672
+Potential Alloy Compositions: TiZrXMnFeNi
+HEA Keywords: high entropy alloy, hydrogenation
+
+================================================================================
+
+PAPER 120
+----------------------------------------
+Title: Design and mechanosynthesis of Low-Weight High-Entropy Alloys with hydrogen storage potential properties
+Authors: A. Martinez-Garcia, I. Estrada-Guel, R. Martínez-Sánchez
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2023.07.341
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 121
+----------------------------------------
+Title: The role of precipitation in hydrogen diffusivity and mechanical properties of a high entropy alloy
+Authors: Sara Corrêa Marques, Dilson Silva dos Santos
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2023.07.046
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 122
+----------------------------------------
+Title: Hydrogen storage properties of Mg<ce:inf loc=post>0.10</ce:inf>Ti<ce:inf loc=post>0.30</ce:inf>V<ce:inf loc=post>0.25</ce:inf>Zr<ce:inf loc=post>0.10</ce:inf>Nb<ce:inf loc=post>0.25</ce:inf> lightweight high entropy alloy: A theoretical study
+Authors: Yuhui Deng, Jutao Hu, Haiyan Xiao
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2023.07.075
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 123
+----------------------------------------
+Title: Enhanced photocatalytic hydrogen production and simultaneous benzyl alcohol oxidation by modulating the Schottky barrier with nano high-entropy alloys
+Authors: Lijuan Sun, Weikang Wang, Hua Tang
+Journal: Chinese Journal of Catalysis (2023)
+DOI: 10.1016/S1872-2067(23)64492-4
+
+================================================================================
+
+PAPER 124
+----------------------------------------
+Title: Far-from-equilibrium electrosynthesis ramifies high-entropy alloy for alkaline hydrogen evolution
+Authors: Yunan Wang, Hao Yang, Song Li
+Journal: Journal of Materials Science & Technology (2023)
+DOI: 10.1016/j.jmst.2023.05.040
+
+================================================================================
+
+PAPER 125
+----------------------------------------
+Title: Microstructure and hydrogen storage properties of Zr-based AB<ce:inf loc=post>2</ce:inf>-type high entropy alloys
+Authors: Huimin Zhao, Pufan Yao, Tai Yang
+Journal: Journal of Alloys and Compounds (2023)
+DOI: 10.1016/j.jallcom.2023.170665
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 126
+----------------------------------------
+Title: Formation of Zr-rich BCC phase and its relation on the hydrogen storage properties of TiVNbZr high entropy alloy
+Authors: Jian Liang, Guanglong Li, Yingdong Qu
+Journal: International Journal of Hydrogen Energy (2023)
+DOI: 10.1016/j.ijhydene.2023.05.100
+Potential Alloy Compositions: TiVNbZr
+HEA Keywords: high entropy alloy, hydrogen storage, bcc
+
+================================================================================
+
+PAPER 127
+----------------------------------------
+Title: Environmentally friendly molten salt synthesis of high-entropy AlCoCrFeNi alloy powder with high catalytic hydrogenation activity
+Authors: Yasukazu Kobayashi, Heng Yi Teah, Nobuko Hanada
+Journal: International Journal of Hydrogen Energy (2023)
+DOI: 10.1016/j.ijhydene.2023.04.224
+Potential Alloy Compositions: AlCoCrFeNi
+HEA Keywords: hydrogenation
+
+================================================================================
+
+PAPER 128
+----------------------------------------
+Title: Stretchable high-entropy alloy nanoflowers enable enhanced alkaline hydrogen evolution catalysis
+Authors: Min Wei, Yuyan Sun, Jike Wang
+Journal: Applied Catalysis B: Environmental (2023)
+DOI: 10.1016/j.apcatb.2023.122814
+
+================================================================================
+
+PAPER 129
+----------------------------------------
+Title: First-principles studies of behavior of hydrogen and mechanical properties of TiCrTaV high-entropy alloys
+Authors: Zhian Song, Jindou Ru, Quan Xie
+Journal: Materials Today Communications (2023)
+DOI: 10.1016/j.mtcomm.2023.105929
+Potential Alloy Compositions: TiCrTaV
+
+================================================================================
+
+PAPER 130
+----------------------------------------
+Title: The role of cryogenic pre-strain on the hydrogen embrittlement of FeNiCoCrMn high-entropy alloys
+Authors: Zihui Guo, Yu Yan
+Journal: Corrosion Science (2023)
+DOI: 10.1016/j.corsci.2023.111197
+Potential Alloy Compositions: FeNiCoCrMn
+
+================================================================================
+
+PAPER 131
+----------------------------------------
+Title: High entropy alloy: From theoretical evaluation to electrocatalytic activity of hydrogen evolution reaction
+Authors: Sejin Im, Dohun Kim, Uk Sim
+Journal: Current Opinion in Electrochemistry (2023)
+DOI: 10.1016/j.coelec.2023.101293
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 132
+----------------------------------------
+Title: Surprising cocktail effect in high entropy alloys on catalyzing magnesium hydride for solid-state hydrogen storage
+Authors: Li Wang, Liuting Zhang, Qian Li
+Journal: Chemical Engineering Journal (2023)
+DOI: 10.1016/j.cej.2023.142766
+HEA Keywords: high entropy alloy, hydrogen storage, hydride
+
+================================================================================
+
+PAPER 133
+----------------------------------------
+Title: High strength and high ductility of a severely deformed high-entropy alloy in the presence of hydrogen
+Authors: Abbas Mohammadi, Payam Edalati, Kaveh Edalati
+Journal: Corrosion Science (2023)
+DOI: 10.1016/j.corsci.2023.111097
+
+================================================================================
+
+PAPER 134
+----------------------------------------
+Title: Study on microstructure and the hydrogen storage behavior of a TiVZrNbFe high-entropy alloy
+Authors: Xiangfeng Ma, Xin Ding, Hongzhi Cui
+Journal: Intermetallics (2023)
+DOI: 10.1016/j.intermet.2023.107885
+Potential Alloy Compositions: TiVZrNbFe
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 135
+----------------------------------------
+Title: Effects of laser powder bed fusion process parameters on microstructure and hydrogen embrittlement of high-entropy alloy
+Authors: Hongxu Cheng, Hong Luo, Xiaogang Li
+Journal: Journal of Materials Science & Technology (2023)
+DOI: 10.1016/j.jmst.2022.12.074
+
+================================================================================
+
+PAPER 136
+----------------------------------------
+Title: Development of Ti-V-Nb-Cr-Mn high entropy alloys for hydrogen storage
+Authors: Leandro Serrano, Maria Moussa, Kátia Regina Cardoso
+Journal: Journal of Alloys and Compounds (2023)
+DOI: 10.1016/j.jallcom.2023.169289
+Potential Alloy Compositions: ofTiVNbCrMn
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 137
+----------------------------------------
+Title: Perspective of interstitial hydrides of high-entropy alloys for vehicular hydrogen storage
+Authors: Aaron Keith, Claudia Zlotea, Petra Ágota Szilágyi
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2023.01.141
+HEA Keywords: hydrogen storage, hydride
+
+================================================================================
+
+PAPER 138
+----------------------------------------
+Title: Enhancing hydrogen storage properties of MgH<ce:inf loc=post>2</ce:inf> using FeCoNiCrMn high entropy alloy catalysts
+Authors: Haiyi Wan, Xiu Yang, Fusheng Pan
+Journal: Journal of Materials Science & Technology (2023)
+DOI: 10.1016/j.jmst.2022.11.033
+Potential Alloy Compositions: FeCoNiCrMn
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 139
+----------------------------------------
+Title: Hydrogen-induced evolution associated with nano-scale precipitated phases in AlCoCrFeNi<ce:inf loc=post>2.1</ce:inf> high-entropy alloy
+Authors: Daochen Feng, Wenjun Wang, Jianguo Yang
+Journal: Journal of Alloys and Compounds (2023)
+DOI: 10.1016/j.jallcom.2023.169116
+Potential Alloy Compositions: AlCoCrFeNi
+
+================================================================================
+
+PAPER 140
+----------------------------------------
+Title: Crystal structure and hydrogen storage properties of AB-type TiZrNbCrFeNi high-entropy alloy
+Authors: Gaspar Andrade, Guilherme Zepon, Ricardo Floriano
+Journal: International Journal of Hydrogen Energy (2023)
+DOI: 10.1016/j.ijhydene.2022.12.134
+Potential Alloy Compositions: TiZrNbCrFeNi
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 141
+----------------------------------------
+Title: Distinct effects of <ce:italic>in-situ</ce:italic> and <ce:italic>ex-situ</ce:italic> hydrogen charging methods on the mechanical behavior of CoCrFeNi high-entropy alloy fabricated by laser-powder bed fusion
+Authors: Dong-Hyun Lee, Jae Yeong Jung, Upadrasta Ramamurty
+Journal: Journal of Alloys and Compounds (2023)
+DOI: 10.1016/j.jallcom.2023.168858
+Potential Alloy Compositions: CoCrFeNi
+
+================================================================================
+
+PAPER 142
+----------------------------------------
+Title: Hydrogen embrittlement resistance of precipitation-hardened FeCoNiCr high entropy alloys
+Authors: Fan Zhang, Bairu Lu, Zhaoping Lu
+Journal: Intermetallics (2023)
+DOI: 10.1016/j.intermet.2022.107800
+Potential Alloy Compositions: FeCoNiCr
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 143
+----------------------------------------
+Title: Hydrogen isotope exchange experiments in high entropy alloy WMoTaNbV
+Authors: T. Vuoriheimo, A. Liski, F. Tuomisto
+Journal: Nuclear Materials and Energy (2023)
+DOI: 10.1016/j.nme.2022.101348
+Potential Alloy Compositions: WMoTaNbV
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 144
+----------------------------------------
+Title: Microstructural features and improved reversible hydrogen storage properties of ZrTiVFe high-entropy alloy via Cu alloying
+Authors: Xiangfeng Ma, Xin Ding, Hongzhi Cui
+Journal: International Journal of Hydrogen Energy (2023)
+DOI: 10.1016/j.ijhydene.2022.10.130
+Potential Alloy Compositions: ZrTiVFe
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 145
+----------------------------------------
+Title: In-situ construction and repair of high catalytic activity interface on corrosion-resistant high-entropy amorphous alloy electrode for hydrogen production in high-temperature dilute sulfuric acid electrolysis
+Authors: Yangzheng Li, Junlei Tang, Xianzhang Lei
+Journal: Chemical Engineering Journal (2023)
+DOI: 10.1016/j.cej.2022.139905
+
+================================================================================
+
+PAPER 146
+----------------------------------------
+Title: Defeating hydrogen-induced grain-boundary embrittlement via triggering unusual interfacial segregation in FeCrCoNi-type high-entropy alloys
+Authors: Q. Li, J. W. Mo, T. Yang
+Journal: Acta Materialia (2022)
+DOI: 10.1016/j.actamat.2022.118410
+Potential Alloy Compositions: FeCrCoNi
+
+================================================================================
+
+PAPER 147
+----------------------------------------
+Title: 1D growth of Cr-rich nanophase induced by hydrogen in high-entropy alloy AlCoCrFeNi<ce:inf loc=post>2.1</ce:inf>
+Authors: Daochen Feng, Wenjun Wang, Jianguo Yang
+Journal: Materials Letters (2022)
+DOI: 10.1016/j.matlet.2022.133163
+Potential Alloy Compositions: AlCoCrFeNi
+
+================================================================================
+
+PAPER 148
+----------------------------------------
+Title: Ultra-Dilute high-entropy alloy catalyst with core-shell structure for high-active hydrogenation of furfural to furfuryl alcohol at mild temperature
+Authors: Ren Tu, Kaili Liang, Xiwei Xu
+Journal: Chemical Engineering Journal (2023)
+DOI: 10.1016/j.cej.2022.139526
+HEA Keywords: hydrogenation
+
+================================================================================
+
+PAPER 149
+----------------------------------------
+Title: Two-step hydrogen reduction of oxides for making FeCoNiCu high entropy alloy: Part I – Process and mechanical properties
+Authors: Xueyi Guo, Peidong Liu, Yubing Chen
+Journal: Materials Characterization (2022)
+DOI: 10.1016/j.matchar.2022.112271
+Potential Alloy Compositions: FeCoNiCu
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 150
+----------------------------------------
+Title: Powder production of an equimolar NbTaTiZr high-entropy alloy via hydrogen embrittlement
+Authors: Hui Wang, Zhiyuan Niu, Suihe Jiang
+Journal: Materials Characterization (2022)
+DOI: 10.1016/j.matchar.2022.112265
+Potential Alloy Compositions: NbTaTiZr
+
+================================================================================
+
+PAPER 151
+----------------------------------------
+Title: Effect of cell wall on hydrogen response in CoCrFeMnNi high-entropy alloy additively manufactured by selective laser melting
+Authors: Yi-Ting Lin, Xianghai An, Hung-Wei Yen
+Journal: Journal of Alloys and Compounds (2022)
+DOI: 10.1016/j.jallcom.2022.166735
+Potential Alloy Compositions: CoCrFeMnNi
+
+================================================================================
+
+PAPER 152
+----------------------------------------
+Title: A nano-sized NbC precipitation strengthened FeCoCrNi high entropy alloy with superior hydrogen embrittlement resistance
+Authors: Heng Chen, Yanan Ma, Xiaogang Li
+Journal: Corrosion Science (2022)
+DOI: 10.1016/j.corsci.2022.110636
+Potential Alloy Compositions: FeCoCrNi
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 153
+----------------------------------------
+Title: Activating multisite high-entropy alloy nanocrystals via enriching M–pyridinic N–C bonds for superior electrocatalytic hydrogen evolution
+Authors: Jingyu Wang, Jiahao Zhang, Chunzhong Li
+Journal: Science Bulletin (2022)
+DOI: 10.1016/j.scib.2022.08.022
+
+================================================================================
+
+PAPER 154
+----------------------------------------
+Title: Hydrogen storage properties of V<ce:inf loc=post>0.3</ce:inf>Ti<ce:inf loc=post>0.3</ce:inf>Cr<ce:inf loc=post>0.25</ce:inf>Mn<ce:inf loc=post>0.1</ce:inf>Nb<ce:inf loc=post>0.05</ce:inf> high entropy alloy
+Authors: Jingjing Liu, Jie Xu, Jacques Huot
+Journal: International Journal of Hydrogen Energy (2022)
+DOI: 10.1016/j.ijhydene.2022.06.013
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 155
+----------------------------------------
+Title: First-principles study of hydrogen-vacancy interactions in CoCrFeMnNi high-entropy alloy
+Authors: Changwei Wang, Kangning Han, Zhenhuan Li
+Journal: Journal of Alloys and Compounds (2022)
+DOI: 10.1016/j.jallcom.2022.166259
+Potential Alloy Compositions: CoCrFeMnNi
+
+================================================================================
+
+PAPER 156
+----------------------------------------
+Title: The characteristics of excellent electrocatalytic hydrogen evolution for FeCoNi based high entropy alloys
+Authors: Yu Lu, Su Xu, Bo Zhang
+Journal: Sustainable Materials and Technologies (2022)
+DOI: 10.1016/j.susmat.2022.e00455
+Potential Alloy Compositions: FeCoNi
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 157
+----------------------------------------
+Title: Hydrogen-accelerated fatigue crack growth of equiatomic Fe–Cr–Ni–Mn–Co high-entropy alloy evaluated by compact tension testing
+Authors: Motomichi Koyama, Shunsuke Mizumachi, Kaneaki Tsuzaki
+Journal: Materials Science and Engineering: A (2022)
+DOI: 10.1016/j.msea.2022.143394
+
+================================================================================
+
+PAPER 158
+----------------------------------------
+Title: Notable hydrogen storage in Ti–Zr–V–Cr–Ni high entropy alloy
+Authors: Abhishek Kumar, Thakur Prasad Yadav, Nilay Krishna Mukhopadhyay
+Journal: International Journal of Hydrogen Energy (2022)
+DOI: 10.1016/j.ijhydene.2022.05.107
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 159
+----------------------------------------
+Title: Synthesis, characterization and first hydrogen absorption/desorption of the Mg<ce:inf loc=post>35</ce:inf>Al<ce:inf loc=post>15</ce:inf>Ti<ce:inf loc=post>25</ce:inf>V<ce:inf loc=post>10</ce:inf>Zn<ce:inf loc=post>15</ce:inf> high entropy alloy
+Authors: Mariana de Brito Ferraz, Walter José Botta, Guilherme Zepon
+Journal: International Journal of Hydrogen Energy (2022)
+DOI: 10.1016/j.ijhydene.2022.05.098
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 160
+----------------------------------------
+Title: Hydrogen-assisted failure in partially recrystallized carbon alloyed equiatomic CoCrFeMnNi high-entropy alloy
+Authors: Hong Luo, Zhimin Pan, Xiaogang Li
+Journal: Corrosion Science (2022)
+DOI: 10.1016/j.corsci.2022.110357
+Potential Alloy Compositions: CoCrFeMnNi
+
+================================================================================
+
+PAPER 161
+----------------------------------------
+Title: Microstructure and defect effects on strength and hydrogen embrittlement of high-entropy alloy CrMnFeCoNi processed by high-pressure torsion
+Authors: Abbas Mohammadi, Payam Edalati, Kaveh Edalati
+Journal: Materials Science and Engineering: A (2022)
+DOI: 10.1016/j.msea.2022.143179
+Potential Alloy Compositions: CrMnFeCoNi
+
+================================================================================
+
+PAPER 162
+----------------------------------------
+Title: Gradient-structured high-entropy alloy with improved combination of strength and hydrogen embrittlement resistance
+Authors: Abbas Mohammadi, Marc Novelli, Kaveh Edalati
+Journal: Corrosion Science (2022)
+DOI: 10.1016/j.corsci.2022.110253
+
+================================================================================
+
+PAPER 163
+----------------------------------------
+Title: Hydrogen accommodation in the TiZrNbHfTa high entropy alloy
+Authors: C. M. Moore, J. A. Wilson, S. C. Middleburgh
+Journal: Acta Materialia (2022)
+DOI: 10.1016/j.actamat.2022.117832
+Potential Alloy Compositions: TiZrNbHfTa
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 164
+----------------------------------------
+Title: Perspectives of high entropy alloys as hydrogen storage materials
+Authors: Rohit R. Shahi, Amit K. Gupta, Priyanka Kumari
+Journal: International Journal of Hydrogen Energy (2023)
+DOI: 10.1016/j.ijhydene.2022.02.113
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 165
+----------------------------------------
+Title: Simple, controllable and environmentally friendly synthesis of FeCoNiCuZn-based high-entropy alloy (HEA) catalysts, and their surface dynamics during nitrobenzene hydrogenation
+Authors: Victor Márquez, Janaina S. Santos, Piyasan Praserthdam
+Journal: Electrochimica Acta (2022)
+DOI: 10.1016/j.electacta.2022.139972
+Potential Alloy Compositions: FeCoNiCuZn
+HEA Keywords: hea, hydrogenation
+
+================================================================================
+
+PAPER 166
+----------------------------------------
+Title: Recent progress on the development of high entropy alloys (HEAs) for solid hydrogen storage: A review
+Authors: Fusheng Yang, Jing Wang, Nikola Novaković
+Journal: International Journal of Hydrogen Energy (2022)
+DOI: 10.1016/j.ijhydene.2022.01.141
+HEA Keywords: high entropy alloy, hea, hydrogen storage
+
+================================================================================
+
+PAPER 167
+----------------------------------------
+Title: Electronic structure regulation toward the improvement of the hydrogenation properties of TiZrHfMoNb high-entropy alloy
+Authors: Pengcheng Li, Jutao Hu, Xiaotao Zu
+Journal: Journal of Alloys and Compounds (2022)
+DOI: 10.1016/j.jallcom.2022.164150
+Potential Alloy Compositions: TiZrHfMoNb
+HEA Keywords: hydrogenation
+
+================================================================================
+
+PAPER 168
+----------------------------------------
+Title: Superior cycle life of TiZrFeMnCrV high entropy alloy for hydrogen storage
+Authors: Jinting Chen, Zhongyu Li, Yanjie Wang
+Journal: Scripta Materialia (2022)
+DOI: 10.1016/j.scriptamat.2022.114548
+Potential Alloy Compositions: TiZrFeMnCrV
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 169
+----------------------------------------
+Title: Effect of hydrogen charging time on hydrogen embrittlement of CoCrFeMnNi high-entropy alloy
+Authors: Xinfeng Li, Zheng Feng, Yong Zhang
+Journal: Corrosion Science (2022)
+DOI: 10.1016/j.corsci.2021.110073
+Potential Alloy Compositions: CoCrFeMnNi
+
+================================================================================
+
+PAPER 170
+----------------------------------------
+Title: Study on hydrogen storage property of (ZrTiVFe)<ce:inf loc=post><ce:italic>x</ce:italic></ce:inf>Al<ce:inf loc=post><ce:italic>y</ce:italic></ce:inf> high-entropy alloys by modifying Al content
+Authors: Xiangfeng Ma, Xin Ding, Qiang Song
+Journal: International Journal of Hydrogen Energy (2022)
+DOI: 10.1016/j.ijhydene.2021.12.172
+Potential Alloy Compositions: ZrTiVFe
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 171
+----------------------------------------
+Title: Hydrogen embrittlement of additively manufactured AlCoCrFeNi<ce:inf loc=post>2.1</ce:inf> eutectic high-entropy alloy
+Authors: Di Wan, Shuai Guan, Jun Ma
+Journal: Corrosion Science (2022)
+DOI: 10.1016/j.corsci.2021.110007
+Potential Alloy Compositions: AlCoCrFeNi
+
+================================================================================
+
+PAPER 172
+----------------------------------------
+Title: Effect of varying Ni content on hydrogen absorption–desorption and electrochemical properties of Zr-Ti-Ni-Cr-Mn high-entropy alloys
+Authors: Toshiaki Fukagawa, Yasuyuki Saito, Akihiro Matsuyama
+Journal: Journal of Alloys and Compounds (2022)
+DOI: 10.1016/j.jallcom.2021.163118
+Potential Alloy Compositions: ofZrTiNiCrMn
+
+================================================================================
+
+PAPER 173
+----------------------------------------
+Title: 16: High-entropy alloys for solid hydrogen storage properties
+Authors: Aryan Singh, Priyanka Kumari, Rohit R. Shahi
+Journal: High-Entropy Alloys (2024)
+DOI: 10.1016/B978-0-443-22142-2.00016-8
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 174
+----------------------------------------
+Title: Machine learning assisted design of FeCoNiCrMn high-entropy alloys with ultra-low hydrogen diffusion coefficients
+Authors: Xiao-Ye Zhou, Ji-Hua Zhu, Hong-Hui Wu
+Journal: Acta Materialia (2022)
+DOI: 10.1016/j.actamat.2021.117535
+Potential Alloy Compositions: FeCoNiCrMn
+
+================================================================================
+
+PAPER 175
+----------------------------------------
+Title: Effects of interstitial C and N on hydrogen embrittlement behavior of non-equiatomic metastable FeMnCoCr high-entropy alloys
+Authors: Zhenghong Fu, Pengfei Wu, Zhiming Li
+Journal: Corrosion Science (2022)
+DOI: 10.1016/j.corsci.2021.109933
+Potential Alloy Compositions: FeMnCoCr
+
+================================================================================
+
+PAPER 176
+----------------------------------------
+Title: Molten salt synthesis of high-entropy alloy AlCoCrFeNiV nanoparticles for the catalytic hydrogenation of <ce:italic>p</ce:italic>-nitrophenol by NaBH<ce:inf loc=post>4</ce:inf>
+Authors: Yasukazu Kobayashi, Daisuke Suzuki, Ryo Shoji
+Journal: International Journal of Hydrogen Energy (2022)
+DOI: 10.1016/j.ijhydene.2021.10.260
+Potential Alloy Compositions: AlCoCrFeNiV
+HEA Keywords: hydrogenation
+
+================================================================================
+
+PAPER 177
+----------------------------------------
+Title: CoNiCuMgZn high entropy alloy nanoparticles embedded onto graphene sheets via anchoring and alloying strategy as efficient electrocatalysts for hydrogen evolution reaction
+Authors: Danyang Feng, Yangbo Dong, Zhen-An Qiao
+Journal: Chemical Engineering Journal (2022)
+DOI: 10.1016/j.cej.2021.132883
+Potential Alloy Compositions: CoNiCuMgZn
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 178
+----------------------------------------
+Title: Influence of hydrogen behaviors on tensile properties of equiatomic FeCrNiMnCo high-entropy alloy
+Authors: T. Zhu, Z. H. Zhong, Q. Xu
+Journal: Journal of Alloys and Compounds (2022)
+DOI: 10.1016/j.jallcom.2021.162260
+Potential Alloy Compositions: FeCrNiMnCo
+
+================================================================================
+
+PAPER 179
+----------------------------------------
+Title: Heterogeneous GdTbDyCoAl high-entropy alloy with distinctive magnetocaloric effect induced by hydrogenation
+Authors: Liliang Shao, Lin Xue, Baolong Shen
+Journal: Journal of Materials Science & Technology (2022)
+DOI: 10.1016/j.jmst.2021.08.076
+Potential Alloy Compositions: GdTbDyCoAl
+HEA Keywords: hydrogenation
+
+================================================================================
+
+PAPER 180
+----------------------------------------
+Title: Transition metal-based high entropy alloy microfiber electrodes: Corrosion behavior and hydrogen activity
+Authors: Baran Sarac, Vladislav Zadorozhnyy, Jürgen Eckert
+Journal: Corrosion Science (2021)
+DOI: 10.1016/j.corsci.2021.109880
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 181
+----------------------------------------
+Title: Hydrogen embrittlement and associated surface crack growth in fine-grained equiatomic CoCrFeMnNi high-entropy alloys with different annealing temperatures evaluated by tensile testing under in situ hydrogen charging
+Authors: Haoyu Wang, Motomichi Koyama, Eiji Akiyama
+Journal: International Journal of Hydrogen Energy (2021)
+DOI: 10.1016/j.ijhydene.2021.07.136
+Potential Alloy Compositions: CoCrFeMnNi
+
+================================================================================
+
+PAPER 182
+----------------------------------------
+Title: Improving the hydrogen embrittlement resistance of a selective laser melted high-entropy alloy via modifying the cellular structures
+Authors: Zhenghong Fu, Bangjian Yang, Zhirui Wang
+Journal: Corrosion Science (2021)
+DOI: 10.1016/j.corsci.2021.109695
+
+================================================================================
+
+PAPER 183
+----------------------------------------
+Title: Microstructure and hydrogen storage properties of Ti–V–Cr based BCC-type high entropy alloys
+Authors: Jingjing Liu, Jie Xu, Jacques Huot
+Journal: International Journal of Hydrogen Energy (2021)
+DOI: 10.1016/j.ijhydene.2021.06.137
+HEA Keywords: high entropy alloy, hydrogen storage, bcc
+
+================================================================================
+
+PAPER 184
+----------------------------------------
+Title: Chapter 3.2: Hydrogen storage in high entropy alloys
+Authors: Abhishek Kumar, Nilay Krishna Mukhopadhyay, Thakur Prasad Yadav
+Journal: Towards Hydrogen Infrastructure (2024)
+DOI: 10.1016/B978-0-323-95553-9.00007-8
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 185
+----------------------------------------
+Title: Exploring the hydrogen absorption and strengthening behavior in nanocrystalline face-centered cubic high-entropy alloys
+Authors: Yakai Zhao, Jeong-Min Park, Jae-il Jang
+Journal: Scripta Materialia (2021)
+DOI: 10.1016/j.scriptamat.2021.114069
+HEA Keywords: crystalline
+
+================================================================================
+
+PAPER 186
+----------------------------------------
+Title: An approach to design single BCC Mg-containing high entropy alloys for hydrogen storage applications
+Authors: R. B. Strozi, D. R. Leiva, G. Zepon
+Journal: International Journal of Hydrogen Energy (2021)
+DOI: 10.1016/j.ijhydene.2021.05.087
+HEA Keywords: high entropy alloy, hydrogen storage, bcc
+
+================================================================================
+
+PAPER 187
+----------------------------------------
+Title: Hydrogen induced microstructure evolution and cracking mechanism in a metastable dual-phase high-entropy alloy
+Authors: Hong Luo, Bo Zhao, Xiaogang Li
+Journal: Materials Science and Engineering: A (2021)
+DOI: 10.1016/j.msea.2021.141490
+
+================================================================================
+
+PAPER 188
+----------------------------------------
+Title: Immunity of Al<ce:inf loc=post>0.25</ce:inf>CoCrFeNi high-entropy alloy to hydrogen embrittlement
+Authors: Shidong Zhang, Min Liu, Xiaowei Wang
+Journal: Materials Science and Engineering: A (2021)
+DOI: 10.1016/j.msea.2021.141590
+Potential Alloy Compositions: CoCrFeNi
+
+================================================================================
+
+PAPER 189
+----------------------------------------
+Title: Effect of alloying elements on the hydrogen diffusion and trapping in high entropy alloys
+Authors: Sara Correa Marques, Amanda Ventura Castilho, Dilson S. dos Santos
+Journal: Scripta Materialia (2021)
+DOI: 10.1016/j.scriptamat.2021.113957
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 190
+----------------------------------------
+Title: The effect of hydrogen on the mechanical properties of high entropy alloy TiZrHfMoNb: First-principles investigation
+Authors: Jutao Hu, Jinjing Zhang, Xiaotao Zu
+Journal: Journal of Alloys and Compounds (2021)
+DOI: 10.1016/j.jallcom.2021.160482
+Potential Alloy Compositions: TiZrHfMoNb
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 191
+----------------------------------------
+Title: Hydrogen storage properties of new A<ce:inf loc=post>3</ce:inf>B<ce:inf loc=post>2</ce:inf>-type TiZrNbCrFe high-entropy alloy
+Authors: Ricardo Floriano, Guilherme Zepon, Rodrigo J. Contieri
+Journal: International Journal of Hydrogen Energy (2021)
+DOI: 10.1016/j.ijhydene.2021.04.181
+Potential Alloy Compositions: TiZrNbCrFe
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 192
+----------------------------------------
+Title: A first-principles study of hydrogen storage of high entropy alloy TiZrVMoNb
+Authors: Jutao Hu, Jinjing Zhang, Xiaotao Zu
+Journal: International Journal of Hydrogen Energy (2021)
+DOI: 10.1016/j.ijhydene.2021.03.200
+Potential Alloy Compositions: TiZrVMoNb
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 193
+----------------------------------------
+Title: Effects of Cr on microstructure, mechanical properties and hydrogen desorption behaviors of ZrTiNbMoCr high entropy alloys
+Authors: Lanping Huang, Minghong Long, Song Li
+Journal: Materials Letters (2021)
+DOI: 10.1016/j.matlet.2021.129718
+Potential Alloy Compositions: ZrTiNbMoCr
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 194
+----------------------------------------
+Title: Hydrogen-enhanced compatibility constraint for intergranular failure in FCC FeNiCoCrMn high-entropy alloy
+Authors: K. M. Bertsch, K. E. Nygren, A. Nagao
+Journal: Corrosion Science (2021)
+DOI: 10.1016/j.corsci.2021.109407
+Potential Alloy Compositions: FeNiCoCrMn
+HEA Keywords: fcc
+
+================================================================================
+
+PAPER 195
+----------------------------------------
+Title: Spark plasma sintering behavior of TaNbHfZrTi high-entropy alloy powder synthesized by hydrogenation-dehydrogenation reaction
+Authors: Ki Beom Park, Jae-Young Park, Hyung-Ki Park
+Journal: Intermetallics (2021)
+DOI: 10.1016/j.intermet.2020.107077
+Potential Alloy Compositions: TaNbHfZrTi
+HEA Keywords: dehydrogenation, hydrogenation
+
+================================================================================
+
+PAPER 196
+----------------------------------------
+Title: Effect of particle size, pressure and temperature on the activation process of hydrogen absorption in TiVZrHfNb high entropy alloy
+Authors: Salma Sleiman, Jacques Huot
+Journal: Journal of Alloys and Compounds (2021)
+DOI: 10.1016/j.jallcom.2021.158615
+Potential Alloy Compositions: TiVZrHfNb
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 197
+----------------------------------------
+Title: Hydrogen induced slowdown of spallation in high entropy alloy under shock loading
+Authors: Zhou-Can Xie, Chen Li, Lan-Hong Dai
+Journal: International Journal of Plasticity (2021)
+DOI: 10.1016/j.ijplas.2021.102944
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 198
+----------------------------------------
+Title: Effect of recrystallization annealing treatment on the hydrogen embrittlement behavior of equimolar CoCrFeMnNi high entropy alloy
+Authors: Z. H. Fu, B. J. Yang, H. Chen
+Journal: International Journal of Hydrogen Energy (2021)
+DOI: 10.1016/j.ijhydene.2020.11.154
+Potential Alloy Compositions: CoCrFeMnNi
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 199
+----------------------------------------
+Title: Study on hydrogen absorption and surface properties of TiZrVNbCr high entropy alloy
+Authors: Ki Beom Park, Jae-Young Park, Hyung-Ki Park
+Journal: Intermetallics (2021)
+DOI: 10.1016/j.intermet.2020.107074
+Potential Alloy Compositions: TiZrVNbCr
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 200
+----------------------------------------
+Title: Sluggish hydrogen diffusion and hydrogen decreasing stacking fault energy in a high-entropy alloy
+Authors: Zhoucan Xie, Yunjiang Wang, Lanhong Dai
+Journal: Materials Today Communications (2021)
+DOI: 10.1016/j.mtcomm.2020.101902
+
+================================================================================
+
+PAPER 201
+----------------------------------------
+Title: Hydrogen storage in MgAlTiFeNi high entropy alloy
+Authors: Kátia R. Cardoso, Virginie Roche, Yannick Champion
+Journal: Journal of Alloys and Compounds (2021)
+DOI: 10.1016/j.jallcom.2020.158357
+Potential Alloy Compositions: MgAlTiFeNi
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 202
+----------------------------------------
+Title: The effect of nitrogen alloying on hydrogen-assisted plastic deformation and fracture in FeMnNiCoCr high-entropy alloys
+Authors: E. G. Astafurova, M. Yu. Panchenko, H. J. Maier
+Journal: Scripta Materialia (2021)
+DOI: 10.1016/j.scriptamat.2020.113642
+Potential Alloy Compositions: FeMnNiCoCr
+
+================================================================================
+
+PAPER 203
+----------------------------------------
+Title: Improving the hydrogen cycling properties by Mg addition in Ti-V-Zr-Nb refractory high entropy alloy
+Authors: Jorge Montero, Gustav Ek, Claudia Zlotea
+Journal: Scripta Materialia (2021)
+DOI: 10.1016/j.scriptamat.2020.113699
+Potential Alloy Compositions: inTiVZrNb
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 204
+----------------------------------------
+Title: Synthesis and hydrogen storage behavior of Mg–V–Al–Cr–Ni high entropy alloys
+Authors: R. B. Strozi, D. R. Leiva, G. Zepon
+Journal: International Journal of Hydrogen Energy (2021)
+DOI: 10.1016/j.ijhydene.2020.10.106
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 205
+----------------------------------------
+Title: Hydrogen storage in TiZrNbFeNi high entropy alloys, designed by thermodynamic calculations
+Authors: Ricardo Floriano, Guilherme Zepon, Rodrigo J. Contieri
+Journal: International Journal of Hydrogen Energy (2020)
+DOI: 10.1016/j.ijhydene.2020.09.047
+Potential Alloy Compositions: TiZrNbFeNi
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 206
+----------------------------------------
+Title: First principles study of the effect of hydrogen in austenitic stainless steels and high entropy alloys
+Authors: Xiao Zhou, William A. Curtin
+Journal: Acta Materialia (2020)
+DOI: 10.1016/j.actamat.2020.09.070
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 207
+----------------------------------------
+Title: Effect of gaseous hydrogen embrittlement on the mechanical properties of additively manufactured CrMnFeCoNi high-entropy alloy strengthened by in-situ formed oxide
+Authors: Young-Kyun Kim, Jin-Yoo Suh, Kee-Ahn Lee
+Journal: Materials Science and Engineering: A (2020)
+DOI: 10.1016/j.msea.2020.140039
+Potential Alloy Compositions: CrMnFeCoNi
+
+================================================================================
+
+PAPER 208
+----------------------------------------
+Title: Effective hydrogen diffusion coefficient for CoCrFeMnNi high-entropy alloy and microstructural behaviors after hydrogen permeation
+Authors: Junghoon Lee, Cheolho Park, Namhyun Kang
+Journal: International Journal of Hydrogen Energy (2020)
+DOI: 10.1016/j.ijhydene.2020.02.012
+Potential Alloy Compositions: CoCrFeMnNi
+
+================================================================================
+
+PAPER 209
+----------------------------------------
+Title: Reversible room temperature hydrogen storage in high-entropy alloy TiZrCrMnFeNi
+Authors: Parisa Edalati, Ricardo Floriano, Kaveh Edalati
+Journal: Scripta Materialia (2020)
+DOI: 10.1016/j.scriptamat.2019.12.009
+Potential Alloy Compositions: TiZrCrMnFeNi
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 210
+----------------------------------------
+Title: Nanoscale phase separation of TiZrNbTa high entropy alloy induced by hydrogen absorption
+Authors: Cheng Zhang, Yuan Wu, Xiping Song
+Journal: Scripta Materialia (2020)
+DOI: 10.1016/j.scriptamat.2019.12.034
+Potential Alloy Compositions: TiZrNbTa
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 211
+----------------------------------------
+Title: Preparation of spherical TaNbHfZrTi high-entropy alloy powders by a hydrogenation–dehydrogenation reaction and thermal plasma treatment
+Authors: Tae-Wook Na, Ki Beom Park, Hyung-Ki Park
+Journal: Journal of Alloys and Compounds (2020)
+DOI: 10.1016/j.jallcom.2019.152757
+Potential Alloy Compositions: TaNbHfZrTi
+HEA Keywords: dehydrogenation, hydrogenation
+
+================================================================================
+
+PAPER 212
+----------------------------------------
+Title: Hydrogen diffusivity and interaction with Fe<ce:inf loc=post>20</ce:inf>Mn<ce:inf loc=post>20</ce:inf>Ni<ce:inf loc=post>20</ce:inf>Co<ce:inf loc=post>20</ce:inf>Cr<ce:inf loc=post>20</ce:inf> and Fe<ce:inf loc=post>22</ce:inf>Mn<ce:inf loc=post>40</ce:inf>Ni<ce:inf loc=post>30</ce:inf>Co<ce:inf loc=post>6</ce:inf>Cr<ce:inf loc=post>2</ce:inf> high-entropy alloys
+Authors: J. S. Belo, S. C. Marques, D. S. dos Santos
+Journal: Journal of Alloys and Compounds (2020)
+DOI: 10.1016/j.jallcom.2019.152314
+
+================================================================================
+
+PAPER 213
+----------------------------------------
+Title: In-situ observation of martensitic transformation in an interstitial metastable high-entropy alloy during cathodic hydrogen charging
+Authors: Dong Wang, Xu Lu, Afrooz Barnoush
+Journal: Scripta Materialia (2019)
+DOI: 10.1016/j.scriptamat.2019.07.042
+
+================================================================================
+
+PAPER 214
+----------------------------------------
+Title: Hydrogen susceptibility of an interstitial equimolar high-entropy alloy revealed by in-situ electrochemical microcantilever bending test
+Authors: Xu Lu, Dong Wang, Afrooz Barnoush
+Journal: Materials Science and Engineering: A (2019)
+DOI: 10.1016/j.msea.2019.138114
+
+================================================================================
+
+PAPER 215
+----------------------------------------
+Title: Grain refinement effect on hydrogen embrittlement resistance of an equiatomic CoCrFeMnNi high-entropy alloy
+Authors: Motomichi Koyama, Kenshiro Ichii, Kaneaki Tsuzaki
+Journal: International Journal of Hydrogen Energy (2019)
+DOI: 10.1016/j.ijhydene.2019.04.280
+Potential Alloy Compositions: CoCrFeMnNi
+
+================================================================================
+
+PAPER 216
+----------------------------------------
+Title: Study on the hydrogen storage properties of a TiZrNbTa high entropy alloy
+Authors: Cheng Zhang, Anna Song, Xiping Song
+Journal: International Journal of Hydrogen Energy (2020)
+DOI: 10.1016/j.ijhydene.2019.05.214
+Potential Alloy Compositions: TiZrNbTa
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 217
+----------------------------------------
+Title: Effect of hydrogen-induced surface steps on the nanomechanical behavior of a CoCrFeMnNi high-entropy alloy revealed by in-situ electrochemical nanoindentation
+Authors: Dong Wang, Xu Lu, Afrooz Barnoush
+Journal: Intermetallics (2019)
+DOI: 10.1016/j.intermet.2019.106605
+Potential Alloy Compositions: CoCrFeMnNi
+
+================================================================================
+
+PAPER 218
+----------------------------------------
+Title: Hydrogen isotope permeation and retention behavior in the CoCrFeMnNi high-entropy alloy
+Authors: Yu-Ping Xu, Yi-Ming Lyu, Guang-Nan Luo
+Journal: Journal of Nuclear Materials (2019)
+DOI: 10.1016/j.jnucmat.2019.04.042
+Potential Alloy Compositions: CoCrFeMnNi
+
+================================================================================
+
+PAPER 219
+----------------------------------------
+Title: Hydrogen storage in high-entropy alloys with varying degree of local lattice strain
+Authors: Magnus Moe Nygård, Gustav Ek, Bjørn C. Hauback
+Journal: International Journal of Hydrogen Energy (2019)
+DOI: 10.1016/j.ijhydene.2019.03.223
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 220
+----------------------------------------
+Title: Influences of hydrogen charging method on the hydrogen distribution and nanomechanical properties of face-centered cubic high-entropy alloy: A comparative study
+Authors: Yakai Zhao, Jeong-Min Park, Jae-il Jang
+Journal: Scripta Materialia (2019)
+DOI: 10.1016/j.scriptamat.2019.04.025
+
+================================================================================
+
+PAPER 221
+----------------------------------------
+Title: Counting electrons - A new approach to tailor the hydrogen sorption properties of high-entropy alloys
+Authors: Magnus Moe Nygård, Gustav Ek, Bjørn C. Hauback
+Journal: Acta Materialia (2019)
+DOI: 10.1016/j.actamat.2019.06.002
+
+================================================================================
+
+PAPER 222
+----------------------------------------
+Title: Investigation on the activation mechanism of hydrogen absorption in TiZrNbTa high entropy alloy
+Authors: Cheng Zhang, Yuan Wu, Xiping Song
+Journal: Journal of Alloys and Compounds (2019)
+DOI: 10.1016/j.jallcom.2018.12.120
+Potential Alloy Compositions: TiZrNbTa
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 223
+----------------------------------------
+Title: Hydrogen sorption in TiZrNbHfTa high entropy alloy
+Authors: C. Zlotea, M. A. Sow, M. Sahlberg
+Journal: Journal of Alloys and Compounds (2019)
+DOI: 10.1016/j.jallcom.2018.10.108
+Potential Alloy Compositions: TiZrNbHfTa
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 224
+----------------------------------------
+Title: Strong resistance to hydrogen embrittlement of high-entropy alloy
+Authors: Z. Pu, Y. Chen, L. H. Dai
+Journal: Materials Science and Engineering: A (2018)
+DOI: 10.1016/j.msea.2018.08.101
+
+================================================================================
+
+PAPER 225
+----------------------------------------
+Title: Beating hydrogen with its own weapon: Nano-twin gradients enhance embrittlement resistance of a high-entropy alloy
+Authors: Hong Luo, Wenjun Lu, Dierk Raabe
+Journal: Materials Today (2018)
+DOI: 10.1016/j.mattod.2018.07.015
+
+================================================================================
+
+PAPER 226
+----------------------------------------
+Title: Influence of hydrogen on incipient plasticity in CoCrFeMnNi high-entropy alloy
+Authors: Guanghui Yang, Yakai Zhao, Jae-il Jang
+Journal: Scripta Materialia (2019)
+DOI: 10.1016/j.scriptamat.2018.10.010
+Potential Alloy Compositions: CoCrFeMnNi
+
+================================================================================
+
+PAPER 227
+----------------------------------------
+Title: Ultrahigh-strength CoCrFeMnNi high-entropy alloy wire rod with excellent resistance to hydrogen embrittlement
+Authors: Young Jin Kwon, Jong Woo Won, Chong Soo Lee
+Journal: Materials Science and Engineering: A (2018)
+DOI: 10.1016/j.msea.2018.06.086
+Potential Alloy Compositions: CoCrFeMnNi
+
+================================================================================
+
+PAPER 228
+----------------------------------------
+Title: Hydrogen embrittlement of an interstitial equimolar high-entropy alloy
+Authors: Hong Luo, Zhiming Li, Dierk Raabe
+Journal: Corrosion Science (2018)
+DOI: 10.1016/j.corsci.2018.03.040
+
+================================================================================
+
+PAPER 229
+----------------------------------------
+Title: High entropy alloy as a highly active and stable electrocatalyst for hydrogen evolution reaction
+Authors: Guoliang Zhang, Kaisheng Ming, Xiaofang Bi
+Journal: Electrochimica Acta (2018)
+DOI: 10.1016/j.electacta.2018.05.035
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 230
+----------------------------------------
+Title: Localized Plasticity and Associated Cracking in Stable and Metastable High-Entropy Alloys Pre-Charged with Hydrogen
+Authors: Kenshiro Ichii, Motomichi Koyama, Kaneaki Tsuzaki
+Journal: Procedia Structural Integrity (2018)
+DOI: 10.1016/j.prostr.2018.12.119
+
+================================================================================
+
+PAPER 231
+----------------------------------------
+Title: Influence of pre-strain on the gaseous hydrogen embrittlement resistance of a high-entropy alloy
+Authors: Yakai Zhao, Dong-Hyun Lee, Jae-il Jang
+Journal: Materials Science and Engineering: A (2018)
+DOI: 10.1016/j.msea.2018.01.107
+
+================================================================================
+
+PAPER 232
+----------------------------------------
+Title: Comparative study of hydrogen embrittlement in stable and metastable high-entropy alloys
+Authors: Kenshiro Ichii, Motomichi Koyama, Kaneaki Tsuzaki
+Journal: Scripta Materialia (2018)
+DOI: 10.1016/j.scriptamat.2018.03.003
+
+================================================================================
+
+PAPER 233
+----------------------------------------
+Title: Hydrogen-induced nanohardness variations in a CoCrFeMnNi high-entropy alloy
+Authors: Yakai Zhao, Dong-Hyun Lee, Jae-il Jang
+Journal: International Journal of Hydrogen Energy (2017)
+DOI: 10.1016/j.ijhydene.2017.02.061
+Potential Alloy Compositions: CoCrFeMnNi
+
+================================================================================
+
+PAPER 234
+----------------------------------------
+Title: Hydrogen-induced phase transition of MgZrTiFe<ce:inf loc=post>0.5</ce:inf>Co<ce:inf loc=post>0.5</ce:inf>Ni<ce:inf loc=post>0.5</ce:inf> high entropy alloy
+Authors: G. Zepon, D. R. Leiva, W. J. Botta
+Journal: International Journal of Hydrogen Energy (2018)
+DOI: 10.1016/j.ijhydene.2017.11.106
+Potential Alloy Compositions: MgZrTiFe
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 235
+----------------------------------------
+Title: Resistance of CoCrFeMnNi high-entropy alloy to gaseous hydrogen embrittlement
+Authors: Yakai Zhao, Dong-Hyun Lee, Jae-il Jang
+Journal: Scripta Materialia (2017)
+DOI: 10.1016/j.scriptamat.2017.03.029
+Potential Alloy Compositions: CoCrFeMnNi
+
+================================================================================
+
+PAPER 236
+----------------------------------------
+Title: Tribological behavior of AlCoCrCuFeNi and AlCoCrFeNiTi<ce:inf loc=post>0.5</ce:inf> high entropy alloys under hydrogen peroxide solution against different counterparts
+Authors: Yuan Yu, Jun Wang, Weimin Liu
+Journal: Tribology International (2015)
+DOI: 10.1016/j.triboint.2015.06.013
+Potential Alloy Compositions: AlCoCrCuFeNi, AlCoCrFeNiTi
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 237
+----------------------------------------
+Title: Understanding the hydrogen effect on pop-in behavior of an equiatomic high-entropy alloy during in-situ nanoindentation
+Authors: Dong Wang, Xu Lu, Roy Johnsen
+Journal: Journal of Materials Science & Technology (2022)
+DOI: 10.1016/j.jmst.2021.04.060
+
+================================================================================
+
+PAPER 238
+----------------------------------------
+Title: Microstructure and hydrogen storage properties of a TiZrNbMoV high entropy alloy synthesized using Laser Engineered Net Shaping (LENS)
+Authors: I. Kunce, M. Polanski, J. Bystrzycki
+Journal: International Journal of Hydrogen Energy (2014)
+DOI: 10.1016/j.ijhydene.2014.02.067
+Potential Alloy Compositions: TiZrNbMoV
+HEA Keywords: high entropy alloy, hydrogen storage
+
+================================================================================
+
+PAPER 239
+----------------------------------------
+Title: Structure and hydrogen storage properties of a high entropy ZrTiVCrFeNi alloy synthesized using Laser Engineered Net Shaping (LENS)
+Authors: I. Kunce, M. Polanski, J. Bystrzycki
+Journal: International Journal of Hydrogen Energy (2013)
+DOI: 10.1016/j.ijhydene.2013.05.071
+Potential Alloy Compositions: ZrTiVCrFeNi
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 240
+----------------------------------------
+Title: Tribological properties of AlCoCrFeNiCu high-entropy alloy in hydrogen peroxide solution and in oil lubricant
+Authors: Haitao Duan, Yong Wu, Jian Li
+Journal: Wear (2013)
+DOI: 10.1016/j.wear.2012.11.014
+Potential Alloy Compositions: AlCoCrFeNiCu
+
+================================================================================
+
+PAPER 241
+----------------------------------------
+Title: Design and characterization of novel multi-phase AlMgZnCuSi light-weight high-entropy alloy with high potential as PCM for energy storage applications
+Authors: Godson Nyaforkpa, Mohamed A. H. Gepreel
+Journal: Materials Characterization (2025)
+DOI: 10.1016/j.matchar.2025.115027
+Potential Alloy Compositions: AlMgZnCuSi
+
+================================================================================
+
+PAPER 242
+----------------------------------------
+Title: Rational design of large-scale high-entropy alloy nanosheets anode with excellent lithium storage performance
+Authors: Jing Li, Wei Xu, Hehe Wei
+Journal: Materials Chemistry and Physics (2025)
+DOI: 10.1016/j.matchemphys.2025.130450
+
+================================================================================
+
+PAPER 243
+----------------------------------------
+Title: An innovative study on high entropy energy storage mg-Y-Ni-cu systems: Machine learning-driven optimization of electrical cycling in Ni-MH battery alloys
+Authors: Andaç Batur Çolak
+Journal: Journal of Energy Storage (2025)
+DOI: 10.1016/j.est.2024.114958
+
+================================================================================
+
+PAPER 244
+----------------------------------------
+Title: Electrical cycling characteristics of high-entropy energy storage Mg-Y-Ni-Cu alloys with different degrees of amorphization for Ni-MH batteries
+Authors: Wengang Bu, Jiamao Hao, Xiubing Liang
+Journal: Journal of Energy Storage (2024)
+DOI: 10.1016/j.est.2024.112124
+Potential Alloy Compositions: MgYNiCu
+
+================================================================================
+
+PAPER 245
+----------------------------------------
+Title: Two-dimensional ultra-thin CuCoNiMnAl high-entropy alloy nanosheets for lithium-ion storage and oxygen evolution reaction
+Authors: Xingqun Zhu, Jing Li, Ming Song
+Journal: Journal of Power Sources (2024)
+DOI: 10.1016/j.jpowsour.2024.234738
+Potential Alloy Compositions: CuCoNiMnAl
+
+================================================================================
+
+PAPER 246
+----------------------------------------
+Title: High-entropy Ti-Zr-Hf-Ni-Cu alloys as solid-solid phase change materials for high-temperature thermal energy storage
+Authors: Guijun Liu, Shengwei Li, Daoyong Cong
+Journal: Intermetallics (2024)
+DOI: 10.1016/j.intermet.2023.108177
+Potential Alloy Compositions: TiZrHfNiCu
+
+================================================================================
+
+PAPER 247
+----------------------------------------
+Title: High-entropy alloy anodes for low-strain and high-volumetric lithium-ion storage at ambient and subzero temperatures
+Authors: Jing Zhao, Zhixuan Wei, Fei Du
+Journal: Energy Storage Materials (2024)
+DOI: 10.1016/j.ensm.2023.103127
+
+================================================================================
+
+PAPER 248
+----------------------------------------
+Title: Lithium storage characteristic of nanoporous high-entropy alloy@high-entropy oxide with spin-dependent synergism of cations
+Authors: Yanhao Wei, Yuwen Zhao, Yifang Zhang
+Journal: Chemical Engineering Journal (2023)
+DOI: 10.1016/j.cej.2023.146881
+
+================================================================================
+
+PAPER 249
+----------------------------------------
+Title: Hierarchical-interface design for stable helium storage and structural evolution in homogeneous nano-multilayered Al<ce:inf loc=post>1.5</ce:inf>CoCrFeNi high entropy alloy films
+Authors: Guo Pu, Qiran Li, Bo Liu
+Journal: Surface and Coatings Technology (2022)
+DOI: 10.1016/j.surfcoat.2022.128393
+Potential Alloy Compositions: CoCrFeNi
+HEA Keywords: high entropy alloy
+
+================================================================================
+
+PAPER 250
+----------------------------------------
+Title: Compositional dependence of hydrogenation performance of Ti-Zr-Hf-Mo-Nb high-entropy alloys for hydrogen/tritium storage
+Authors: Huahai Shen, Jutao Hu, Shuming Peng
+Journal: Journal of Materials Science & Technology (2020)
+DOI: 10.1016/j.jmst.2019.08.060
+Potential Alloy Compositions: ofTiZrHfMoNb
+HEA Keywords: hydrogenation
+
+================================================================================
+
+PAPER 251
+----------------------------------------
+Title: Multicomponent alloy V-15(Fe–Co–Cr–Ni) for hydrogen filters: Solubility and structure
+Authors: A. P. Voyt, A. P. Baraban, N. I. Sidorov
+Journal: International Journal of Hydrogen Energy (2025)
+DOI: 10.1016/j.ijhydene.2025.02.375
+HEA Keywords: multicomponent alloy
+
+================================================================================
+
+PAPER 252
+----------------------------------------
+Title: Effect of C15 Laves phase ratios on hydrogen absorption and desorption properties of Ti<ce:inf loc=post>0.5</ce:inf><ce:inf loc=post>0</ce:inf><ce:inf loc=post>-x</ce:inf>V<ce:inf loc=post>0.25</ce:inf>Cr<ce:inf loc=post>x</ce:inf>Nb<ce:inf loc=post>0.25</ce:inf> (x = 0.15, 0.25, 0.30, and 0.35) multicomponent alloys
+Authors: Zhen Wen, Guanglong Li, Yingdong Qu
+Journal: Journal of Alloys and Compounds (2025)
+DOI: 10.1016/j.jallcom.2025.179159
+HEA Keywords: multicomponent alloy
+
+================================================================================
+
+PAPER 253
+----------------------------------------
+Title: A thermodynamic approach to modeling multicomponent FeTi-based alloys for hydrogen storage
+Authors: Ebert Alvares, Andrew J. E. Rowberg, Claudio Pistidda
+Journal: Scripta Materialia (2025)
+DOI: 10.1016/j.scriptamat.2024.116516
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 254
+----------------------------------------
+Title: Effect of the interchangeability of Ti and Nb on the crystal structure and hydrogen storage properties of Ti<ce:inf loc=post>x</ce:inf>Nb<ce:inf loc=post>80-x</ce:inf>Al<ce:inf loc=post>10</ce:inf>Cr<ce:inf loc=post>10</ce:inf> (x = 30, 40, and 50) multicomponent alloys
+Authors: Renato Belli Strozi, Walter José Botta, Guilherme Zepon
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2024.10.128
+HEA Keywords: multicomponent alloy, hydrogen storage
+
+================================================================================
+
+PAPER 255
+----------------------------------------
+Title: Effect of high and low Nb content in multicomponent Nb–Ni–Ti–Zr–Co alloy on its structure, hardness and hydrogen permeability
+Authors: E. B. Kashkarov, L. A. Svyatkin, D. V. Terenteva
+Journal: Intermetallics (2024)
+DOI: 10.1016/j.intermet.2023.108180
+
+================================================================================
+
+PAPER 256
+----------------------------------------
+Title: Hydrogen storage properties of Zr-based multicomponent alloys with C14-Laves phase structure derived from the Zr–Cr–Mn–Fe–Ni system
+Authors: Gaspar Andrade, Bruno Hessel Silva, Ricardo Floriano
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2023.11.111
+HEA Keywords: multicomponent alloy, hydrogen storage, phase structure
+
+================================================================================
+
+PAPER 257
+----------------------------------------
+Title: Hydrogen storage properties of the TiVFeZr multicomponent alloy with C14-type laves phase structure
+Authors: Vinícius Aranda, Daniel Rodrigo Leiva, Guilherme Zepon
+Journal: Intermetallics (2023)
+DOI: 10.1016/j.intermet.2023.108020
+Potential Alloy Compositions: TiVFeZr
+HEA Keywords: multicomponent alloy, hydrogen storage, phase structure
+
+================================================================================
+
+PAPER 258
+----------------------------------------
+Title: Electrodeposited Co–Mn–Sn multicomponent alloy as an efficient electrocatalyst for hydrogen evolution reaction
+Authors: Athira Chandran M, Subash Cherumannil Karumuthil, Bhagavatula L. V. Prasad
+Journal: International Journal of Hydrogen Energy (2024)
+DOI: 10.1016/j.ijhydene.2023.07.064
+HEA Keywords: multicomponent alloy
+
+================================================================================
+
+PAPER 259
+----------------------------------------
+Title: Structural characterization and hydrogen storage properties of the Ti<ce:inf loc=post>31</ce:inf>V<ce:inf loc=post>26</ce:inf>Nb<ce:inf loc=post>26</ce:inf>Zr<ce:inf loc=post>12</ce:inf>M<ce:inf loc=post>5</ce:inf> (M = Fe, Co, or Ni) multi-phase multicomponent alloys
+Authors: Lucas Faccioni Chanchetti, Bruno Hessel Silva, Guilherme Zepon
+Journal: International Journal of Hydrogen Energy (2023)
+DOI: 10.1016/j.ijhydene.2022.10.060
+HEA Keywords: multicomponent alloy, hydrogen storage
+
+================================================================================
+
+PAPER 260
+----------------------------------------
+Title: An open-source code to calculate pressure-composition-temperature diagrams of multicomponent alloys for hydrogen storage
+Authors: Otávio Abreu Pedroso, Walter José Botta, Guilherme Zepon
+Journal: International Journal of Hydrogen Energy (2022)
+DOI: 10.1016/j.ijhydene.2022.07.179
+HEA Keywords: multicomponent alloy, hydrogen storage
+
+================================================================================
+
+PAPER 261
+----------------------------------------
+Title: Nanoscale microstructure and hydrogen storage performance of as cast La-containing V-based multicomponent alloys
+Authors: Long Luo, Yiming Li, Yongzhi Li
+Journal: International Journal of Hydrogen Energy (2022)
+DOI: 10.1016/j.ijhydene.2022.08.021
+HEA Keywords: multicomponent alloy, hydrogen storage
+
+================================================================================
+
+PAPER 262
+----------------------------------------
+Title: Design of multicomponent alloys with C14 laves phase structure for hydrogen storage assisted by computational thermodynamic
+Authors: Jéssica Bruna Ponsoni, Vinícius Aranda, Guilherme Zepon
+Journal: Acta Materialia (2022)
+DOI: 10.1016/j.actamat.2022.118317
+HEA Keywords: multicomponent alloy, hydrogen storage, phase structure
+
+================================================================================
+
+PAPER 263
+----------------------------------------
+Title: Hydrogen absorption/desorption reactions of the (TiVNb)<ce:inf loc=post>85</ce:inf>Cr<ce:inf loc=post>15</ce:inf> multicomponent alloy
+Authors: Bruno Hessel Silva, Claudia Zlotea, Guilherme Zepon
+Journal: Journal of Alloys and Compounds (2022)
+DOI: 10.1016/j.jallcom.2022.163620
+Potential Alloy Compositions: TiVNb
+HEA Keywords: multicomponent alloy
+
+================================================================================
+
+PAPER 264
+----------------------------------------
+Title: Micron-/nano-scale hierarchical structures and hydrogen storage mechanisms in a cast vanadium-based multicomponent alloy
+Authors: Yuqing Qiao, Congcong Du, Tongde Shen
+Journal: Nano Energy (2021)
+DOI: 10.1016/j.nanoen.2021.106588
+HEA Keywords: multicomponent alloy, hydrogen storage
+
+================================================================================
+
+PAPER 265
+----------------------------------------
+Title: Thermodynamic modelling of hydrogen-multicomponent alloy systems: Calculating pressure-composition-temperature diagrams
+Authors: Guilherme Zepon, Bruno Hessel Silva, Yannick Champion
+Journal: Acta Materialia (2021)
+DOI: 10.1016/j.actamat.2021.117070
+HEA Keywords: multicomponent alloy
+
+================================================================================
+
+PAPER 266
+----------------------------------------
+Title: Design of TiVNb-(Cr, Ni or Co) multicomponent alloys with the same valence electron concentration for hydrogen storage
+Authors: Bruno Hessel Silva, Claudia Zlotea, Guilherme Zepon
+Journal: Journal of Alloys and Compounds (2021)
+DOI: 10.1016/j.jallcom.2021.158767
+Potential Alloy Compositions: TiVNb
+HEA Keywords: multicomponent alloy, hydrogen storage
+
+================================================================================
+
+PAPER 267
+----------------------------------------
+Title: Compositional effects on the hydrogen cycling stability of multicomponent Ti-Mn based alloys
+Authors: Shahrouz Nayebossadri, David Book
+Journal: International Journal of Hydrogen Energy (2019)
+DOI: 10.1016/j.ijhydene.2019.02.138
+
+================================================================================
+
+PAPER 268
+----------------------------------------
+Title: Investigation on hydrogen production using multicomponent aluminum alloys at mild conditions and its mechanism
+Authors: Huihu Wang, Ying Chang, Zhixiong Xie
+Journal: International Journal of Hydrogen Energy (2013)
+DOI: 10.1016/j.ijhydene.2012.11.034
+
+================================================================================
+
+PAPER 269
+----------------------------------------
+Title: Modelling and simulation of hydrogen permeation through supported Pd-alloy membranes with a multicomponent approach
+Authors: Alessio Caravella, Giuseppe Barbieri, Enrico Drioli
+Journal: Chemical Engineering Science (2008)
+DOI: 10.1016/j.ces.2008.01.009
+
+================================================================================
+
+PAPER 270
+----------------------------------------
+Title: Hydrogen-induced internal friction of Ti-rich multicomponent glassy alloys
+Authors: M. Hasegawa, M. Takeuchi, A. Inoue
+Journal: Materials Science and Engineering: A (2006)
+DOI: 10.1016/j.msea.2006.02.214
+
+================================================================================
+
+PAPER 271
+----------------------------------------
+Title: Regularities of hydrogen interaction with multicomponent Ti(Zr)–Mn–V Laves phase alloys
+Authors: S. V. Mitrokhin
+Journal: Journal of Alloys and Compounds (2005)
+DOI: 10.1016/j.jallcom.2005.02.078
+
+================================================================================
+
+PAPER 272
+----------------------------------------
+Title: Stability and hydrogen-induced internal friction of Ti-rich multicomponent glassy alloys
+Authors: M Hasegawa, M Takeuchi, A Inoue
+Journal: Journal of Alloys and Compounds (2004)
+DOI: 10.1016/j.jallcom.2003.09.135
+
+================================================================================
+
+PAPER 273
+----------------------------------------
+Title: Hydrogen absorption behavior of multicomponent zirconium based AB<ce:inf loc=post>2</ce:inf> alloys with different chromium–vanadium ratio
+Authors: H. A. Peretti, A. Visintin, W. E. Triaca
+Journal: Journal of Alloys and Compounds (2003)
+DOI: 10.1016/S0925-8388(03)00012-4
+
+================================================================================
+
+PAPER 274
+----------------------------------------
+Title: Preparation and hydrogenation of multicomponent AB<ce:inf loc=post>2</ce:inf>-type Zr–Mn–V–Co–Ni amorphous alloy
+Authors: L. -C Lai, C. -L Lee, T. -P Perng
+Journal: Journal of Alloys and Compounds (2000)
+DOI: 10.1016/S0925-8388(00)00826-4
+HEA Keywords: hydrogenation
+
+================================================================================
+
+PAPER 275
+----------------------------------------
+Title: Attempt to predict hydrogen solubility limits in liquid multicomponent aluminum alloys
+Authors: Prince N. Anyalebechi
+Journal: Scripta Materialia (1996)
+DOI: 10.1016/1359-6462(95)00591-9
+
+================================================================================
+
+PAPER 276
+----------------------------------------
+Title: Hydrogenation of multicomponent Zr-base C15 type alloys
+Authors: Y. -S. Hsu, T. -P. Perng
+Journal: Journal of Alloys and Compounds (1995)
+DOI: 10.1016/0925-8388(95)01646-5
+HEA Keywords: hydrogenation
+
+================================================================================
+
+PAPER 277
+----------------------------------------
+Title: A combined experimental and machine learning exploration of Ti<ce:inf loc=post>2-x</ce:inf>Zr<ce:inf loc=post>x</ce:inf>MnCrFeNi high entropy Laves hydrides
+Authors: Veronica Enblom, Rebecca Clulow, Julien O. Fadonougbo
+Journal: Materialia (2025)
+DOI: 10.1016/j.mtla.2025.102414
+Potential Alloy Compositions: MnCrFeNi
+HEA Keywords: hydride
+
+================================================================================
+
+PAPER 278
+----------------------------------------
+Title: Anions intercalated two-dimension high entropy layered metal oxides for enhanced hydrogen storage in magnesium hydride
+Authors: Li Wang, Tao Zhong, Liuting Zhang
+Journal: Chemical Engineering Journal (2025)
+DOI: 10.1016/j.cej.2025.159591
+HEA Keywords: hydrogen storage, hydride
+
+================================================================================
+
+PAPER 279
+----------------------------------------
+Title: Fabrication of powder high-entropy TiZrHfNbTa alloy by calcium-hydride method: Synthesis kinetics and structure evolution
+Authors: Sergey Yudin, Sergey Volodko, Dmitry Moskovskikh
+Journal: Journal of Alloys and Compounds (2024)
+DOI: 10.1016/j.jallcom.2024.175878
+Potential Alloy Compositions: TiZrHfNbTa
+HEA Keywords: hydride, kinetics
+
+================================================================================
+
+PAPER 280
+----------------------------------------
+Title: Destabilizing high-capacity high entropy hydrides via earth abundant substitutions: From predictions to experimental validation
+Authors: Andrei Agafonov, Nayely Pineda-Romero, Claudia Zlotea
+Journal: Acta Materialia (2024)
+DOI: 10.1016/j.actamat.2024.120086
+HEA Keywords: high entropy hydride, hydride
+
+================================================================================
+
+PAPER 281
+----------------------------------------
+Title: Promoting catalysis in magnesium hydride for solid-state hydrogen storage through manipulating the elements of high entropy oxides
+Authors: Li Wang, Liuting Zhang, Lixin Chen
+Journal: Journal of Magnesium and Alloys (2024)
+DOI: 10.1016/j.jma.2024.01.030
+HEA Keywords: hydrogen storage, hydride
+
+================================================================================
+
+PAPER 282
+----------------------------------------
+Title: Fabrication of high-entropy carbide ceramics (Ti,Zr,Hf,Nb,Ta)C through low-temperature calcium-hydride reduction of oxides
+Authors: Sergey Yudin, Sergey Volodko, Chengyu Zhang
+Journal: Journal of the European Ceramic Society (2023)
+DOI: 10.1016/j.jeurceramsoc.2023.04.056
+HEA Keywords: hydride
+
+================================================================================
+
+PAPER 283
+----------------------------------------
+Title: High-entropy hydrides for fast and reversible hydrogen storage at room temperature: Binding-energy engineering via first-principles calculations and experiments
+Authors: Abbas Mohammadi, Yuji Ikeda, Kaveh Edalati
+Journal: Acta Materialia (2022)
+DOI: 10.1016/j.actamat.2022.118117
+HEA Keywords: hydrogen storage, hydride
+
+================================================================================
+
+PAPER 284
+----------------------------------------
+Title: High-entropy alloys as anode materials of nickel - metal hydride batteries
+Authors: Parisa Edalati, Abbas Mohammadi, Kaveh Edalati
+Journal: Scripta Materialia (2022)
+DOI: 10.1016/j.scriptamat.2021.114387
+HEA Keywords: hydride
+
+================================================================================
+
+PAPER 285
+----------------------------------------
+Title: Vibrational properties of High Entropy Alloy based metal hydrides probed by inelastic neutron scattering
+Authors: Gustav Ek, Øystein S. Fjellvåg, Ulrich Häussermann
+Journal: Journal of Alloys and Compounds (2021)
+DOI: 10.1016/j.jallcom.2021.160320
+HEA Keywords: high entropy alloy, hydride
+
+================================================================================
+
+PAPER 286
+----------------------------------------
+Title: Substitutional solute grain boundary segregation enhances resistance to hydrogen embrittlement in compositionally complex alloys
+Authors: Weihong Liu, Lingyu Zhu, Zhaoxuan Wu
+Journal: Acta Materialia (2025)
+DOI: 10.1016/j.actamat.2025.120755
+HEA Keywords: compositionally complex alloy
+
+================================================================================
+
+PAPER 287
+----------------------------------------
+Title: Compositionally complex doping for low-V Ti-Cr-V hydrogen storage alloys
+Authors: Yongyang Zhu, Xubo Li, Kangcheung Chan
+Journal: Chemical Engineering Journal (2023)
+DOI: 10.1016/j.cej.2023.146970
+Potential Alloy Compositions: VTiCrV
+HEA Keywords: hydrogen storage
+
+================================================================================
+
+PAPER 288
+----------------------------------------
+Title: Ultra-lightweight compositionally complex alloys with large ambient-temperature hydrogen storage capacity
+Authors: Yuanyuan Shang, Zhifeng Lei, Claudio Pistidda
+Journal: Materials Today (2023)
+DOI: 10.1016/j.mattod.2023.06.012
+HEA Keywords: compositionally complex alloy, hydrogen storage, storage capacity
+
+================================================================================
+
+PAPER 289
+----------------------------------------
+Title: On the hydrogen environment-assisted cracking resistance of a compositionally complex Co–Ni–Cr–Fe–Mo–Ti alloy
+Authors: Zachary D. Harris, Kateryna Guiseva, James T. Burns
+Journal: Materials Science and Engineering: A (2021)
+DOI: 10.1016/j.msea.2020.140601
+
+================================================================================
+
+PAPER 290
+----------------------------------------
+Title: Hydrogen embrittlement in compositionally complex FeNiCoCrMn FCC solid solution alloy
+Authors: K. E. Nygren, K. M. Bertsch, I. M. Robertson
+Journal: Current Opinion in Solid State and Materials Science (2018)
+DOI: 10.1016/j.cossms.2017.11.002
+Potential Alloy Compositions: FeNiCoCrMn
+HEA Keywords: fcc, solid solution
+
+================================================================================
+

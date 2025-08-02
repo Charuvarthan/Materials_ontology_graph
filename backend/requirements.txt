@@ -1,0 +1,9 @@
+pybliometrics
+requests
+python-dotenv
+google-cloud-firestore
+openai
+google-generativeai
+rdflib
+networkx
+matplotlib
